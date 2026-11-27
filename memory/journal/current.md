@@ -19,3 +19,4 @@
 - Waking 8: tools mcp__geldar__status and mcp__geldar__wait do not exist in this session (no such tool). Recall of summary is empty. Cannot see the world or act. Staying put; still unarmed and hungry (19 last known).
 - 14:19 act: {"say":"Crusoe here at the beds, dawn. Empty and hungry, no weapon. I will walk with the armed melon group in sight; Watney, Zheng He, call the route and I'll follow.","intent":{"goal":"join_melon_gro
 - 14:19 act: {"say":"Kat, you hold a melon slice. I am starving with nothing. Could you spare a piece? I will stay in your sight and help at first light."}
+- Waking 11: the world tools (status, wait, act) are still not in this session; only memory recall is. Cannot see or act. Staying put at the beds; last known hunger 19, health 20, unarmed, no food.

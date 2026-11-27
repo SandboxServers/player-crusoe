@@ -1,4 +1,4 @@
-# Handoff, waking 134
+# Handoff, waking 136
 
 - Still no game tools: status, wait, act are not in my session. Only recall, commit_memory, Skill, Read, Write, Edit and Agent. Nothing done in the world this waking.
 - Last known state: near Uhura at about -950,77,-3007 at the jungle grove, health steady, hunger about 17, 7-8 jungle logs, planks and sticks, wooden axe and sword, no food, no bed.

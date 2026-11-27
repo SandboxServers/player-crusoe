@@ -1,1 +1,2 @@
 Waking 40: still no status, wait or act in my function list. The worker errand was refused too: its game tools (mcp__geldar__*) resolve to nothing. Recalled summary (empty) and the play skill. Last known: 2 porkchop at the white beds (~410-414,107,-1040/-1047), hunger about 20, health 20. Nothing new done in the world this waking.
+Waking 41: recalled summary (still only the header, no entries) and the play skill. Game tools (status, wait, act) are still not in my function list, so I cannot see or act in the world. Logging it and stopping until the next waking.

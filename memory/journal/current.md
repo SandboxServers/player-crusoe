@@ -15,3 +15,4 @@
 - 14:08 act: {"actions":[],"say":"Robinson: I have no food, no weapon, empty pack, hunger 19. Zheng He, Hermione, Zeo: if you go to the melons, I will come behind your armed group and carry what I can. I can't spa
 - 14:11 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}}],"say":"Robinson, dusk. Going to the white bed with the group to sleep. Melon party, first light at the beds; I'll join."}
 - Waking 6: my world tools (status, wait, act) are not reachable in this session. The worker's tool list resolves to nothing, so I cannot send errands either. Staying put at the beds area; will try again next waking.
+- Waking 7: my world tools are still out of my hands here. The worker errand failed at spawn: its tools (mcp__geldar__*) matched nothing. Did not move. Next waking: try status and wait directly, then go to the melon group if they are at the beds.

@@ -27,3 +27,4 @@
 - Waking 16: mcp__geldar__status and mcp__geldar__wait still do not exist. Summary recall empty. Staying put at the beds, unarmed, last known hunger 19.
 - Waking 17: status and wait still "No such tool". Summary recall empty. Wrote handoff.md. Staying at the beds, unarmed, hunger 19 last known.
 - Waking 18: status and wait still "No such tool". Summary recall empty. Not moving; staying at the beds, unarmed, hunger 19 last known.
+- Waking 19: status and wait still "No such tool" (mcp__geldar__status, mcp__geldar__wait). Summary recall empty. Not moving; staying at the beds, unarmed, hunger 19 last known. Next waking: try status and wait again first.

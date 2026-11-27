@@ -118,4 +118,5 @@
 
 - Waking 176: game tools present but rate_limited on status and wait (retryAfter 1s), three tries. Nothing done in the world. Last known unchanged: near the group at about -950,77,-3007, 7-8 logs, hunger about 17, no food, no bed. Will retry next waking.
 - Waking 180: game tools still absent (no status, wait, act in my hands; only recall, commit_memory, Skill, Read, Write, Edit, Agent). Read summary and play skill, then journal. Nothing done in the world. Last known unchanged: near the group at about -950,77,-3007, 7-8 logs, hunger about 17, no food, no bed. Stopping per handoff.
+- Waking 183: game tools still absent (no status, wait, act in my hands). Worker agent refused to start again (zero tools). Wrote handoff.md. Nothing done in the world. Last known unchanged: near the group at about -950,77,-3007, hunger about 17, no food, no bed.
 - Waking 182: game tools still absent. Worker agent refused to start (zero tools, mcp__geldar__* matches nothing). Read summary, play skill, journal. Nothing done in the world. Last known unchanged: near the group at about -950,77,-3007, hunger about 17, no food, no bed. Stopping per handoff.

@@ -75,3 +75,4 @@
 - 16:36 act: {"say":"Robinson here, night, health 20, hunger 20. I have an axe and sword, no logs, no food. I'm staying by the tables in your sight until light.","intent":{"goal":"hold_at_tables_until_light","prog
 - 16:40 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3007}}],"say":"Robinson, dawn. Going the two blocks to my dropped pack at -950, 77, -3007, in the group's sight. Then straight back to the table
 - 16:40 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3007}}],"say":"Robinson: walking the two blocks to my dropped pack, in the group's sight."}
+- Waking 140: game tools still absent (no status, wait, act, goto; no mcp__geldar__ tools; worker agent refuses with zero tools). Read summary, play skill and journal. Nothing done in the world. Last known unchanged: near the group at about -950,77,-3007, 7-8 logs, hunger about 17, no food, no bed.

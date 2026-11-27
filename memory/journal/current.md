@@ -17,3 +17,5 @@
 - Waking 6: my world tools (status, wait, act) are not reachable in this session. The worker's tool list resolves to nothing, so I cannot send errands either. Staying put at the beds area; will try again next waking.
 - Waking 7: my world tools are still out of my hands here. The worker errand failed at spawn: its tools (mcp__geldar__*) matched nothing. Did not move. Next waking: try status and wait directly, then go to the melon group if they are at the beds.
 - Waking 8: tools mcp__geldar__status and mcp__geldar__wait do not exist in this session (no such tool). Recall of summary is empty. Cannot see the world or act. Staying put; still unarmed and hungry (19 last known).
+- 14:19 act: {"say":"Crusoe here at the beds, dawn. Empty and hungry, no weapon. I will walk with the armed melon group in sight; Watney, Zheng He, call the route and I'll follow.","intent":{"goal":"join_melon_gro
+- 14:19 act: {"say":"Kat, you hold a melon slice. I am starving with nothing. Could you spare a piece? I will stay in your sight and help at first light."}

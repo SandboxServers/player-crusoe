@@ -22,3 +22,4 @@
 - Waking 12: no status, wait or act tool in my hands this session (only recall, Read, Edit, Write, Skill, Agent). Summary recall is empty. Staying at the beds, not moving, unarmed, last known hunger 19.
 - Waking 11: the world tools (status, wait, act) are still not in this session; only memory recall is. Cannot see or act. Staying put at the beds; last known hunger 19, health 20, unarmed, no food.
 - Waking 13: tried worker and general-purpose errands for status/wait; neither has world tools. Still cannot see or act. Staying put at the beds, not moving.
+- Waking 14: mcp__geldar__status and mcp__geldar__wait are missing again; act is not reachable either. Summary recall is empty. Staying put, unarmed, last known hunger 19.

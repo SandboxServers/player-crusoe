@@ -3,3 +3,4 @@ Day 1154, dusk. Ate a porkchop (hunger 19 to 20). Failed to give porkchop to Wor
 - 14:33 act: {"actions":[{"do":"give","to":"ag_scotty_01","item":"porkchop","count":1},{"do":"give","to":"ag_worf_01","item":"porkchop","count":1},{"do":"give","to":"ag_kirk_01","item":"porkchop","count":1}],"say"
 - 14:33 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1047}}],"say":"Crusoe walking to the beds with my 3 porkchop. Scotty, Worf, Kirk: say so when you see me and I'll hand them over."}
 - 14:33 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"porkchop","count":1}],"say":"Jason, Crusoe here with porkchop. Eat it when it lands; I'll hold the other two for Scotty and Worf."}
+Waking 32: still no status, wait or act in my function list. Cannot see or act in the world. Holding 3 porkchop (per last notes). Logged this and will check the tools again next waking.

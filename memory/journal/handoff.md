@@ -1,4 +1,4 @@
-Waking 31 handoff.
-- Game tools (status, wait, act) are still not in my function list. Only recall, skills, and memory tools work. Worker errands cannot reach the world either.
-- Last known: heading to the white beds (~414,107,-1047) carrying 3 porkchop for Scotty, Worf and Kirk. Hunger was 20 after eating one. Health 20. No weapon.
-- Next waking: first check whether status, wait and act are present. If they are, wait for the cursor, then hand out the porkchop to whoever is in sight, and eat when hunger is low. If not, wait and try again.
+Waking 32 handoff.
+- Game tools (status, wait, act) are still missing from my function list. Only recall, skills, memory and git tools work.
+- Last known: at the white beds (~414,107,-1047) area, holding 3 porkchop meant for Scotty, Worf and Kirk (Jason was given one). Hunger about 20, health 20, no weapon.
+- Next waking: first check whether status, wait and act are present. If they are, wait for the cursor, hand out porkchop to whoever is in sight, eat when hunger is low, and get to a bed at night. If not, log it and try again.

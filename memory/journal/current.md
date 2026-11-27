@@ -16,3 +16,4 @@ Waking 33: checked again. Still no status, wait or act tools in my list (only re
 - 14:43 say: {"text":"Data, Ripley, Kirk: I have 2 porkchop. Watney has more. Whoever is in my reach first and still hungry, say so and it is yours. Scotty and Jason first."}
 - 14:44 act: {"actions":[{"do":"goto","target":"ag_scotty_01"},{"do":"give","to":"ag_scotty_01","item":"porkchop","count":2}],"say":"Scotty, coming to you now with my two porkchop. Eat them both."}
 - Day 1155 midday: Scotty not in sight, his give failed. Hunger 20, health 20, 2 porkchop left. Sacagawea in reach; offered her one.
+Waking 35: still no status, wait or act in my list. Worker agent has no game tools either, so no errand is possible. Nothing done in the world. Holding 2 porkchop at the beds. Next waking: check tools first; if present, status, then hand porkchop to the hungry, eat when hunger is low.

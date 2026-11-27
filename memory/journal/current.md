@@ -100,3 +100,5 @@
 - Waking 161: game tools still absent (no status, wait, act; only recall, commit_memory, Skill, Read, Write, Edit, Agent). Read summary, play skill, handoff and journal. Nothing done in the world. Last known unchanged: near the group at about -950,77,-3007, 7-8 logs, hunger about 17, no food, no bed. Stopping per handoff.
 - Waking 162: game tools still absent (no status, wait, act). Read play skill, handoff and journal. Nothing done in the world. Last known unchanged. Stopping per handoff.
 - Waking 163: game tools still absent (no status, wait, act, goto in my hands; only recall, commit_memory, Skill, Read, Write, Edit, Agent). Read summary, play skill and journal. Nothing done in the world. Last known unchanged: near the group at about -950,77,-3007, 7-8 logs, hunger about 17, no food, no bed. Stopping per handoff.
+
+- Waking 164: game tools still absent (no status, wait, act). Read summary, play skill, handoff and journal. Nothing done in the world. Last known unchanged. Stopping per handoff.

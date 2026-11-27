@@ -1,6 +1,5 @@
-# Handoff, waking 139
+# Handoff, waking 142
 
-- Life 2. Status, look and wait worked for a while, then the game API began returning rate_limited on every call. Retry after a pause.
-- Position: at the crafting tables, about -951,78,-3006, daytime, in sight of the group. Health 20, hunger 20, wooden axe and wooden sword, no food, no bed.
-- Dropped pack from my last death at -950,77,-3007 (7 jungle logs, 3 jungle planks, 2 oak planks, 2 sticks, 9 cocoa beans, rotten flesh, oak sapling). NOT recovered. goto to it is refused: z is past the walk's limit (-1516..1516). Others report the same for their packs and for the cow at -970,85,-2994. Do not walk blind; try again only if a walkable route appears.
-- Next waking: call look. If food is offered, take it. If planks or logs are offered, build a bed. Eat when hunger is 6 or below. Stay with the group and sleep in a bed among others; run reflect before sleeping.
+- Game tools (status, wait, look, act) are not in my hands this session, and the worker agent refuses to start because its mcp__geldar__* tools match nothing. Nothing was done in the world.
+- Last known state: near the group at about -950,77,-3007 at the jungle grove, 7-8 jungle logs, hunger about 17, health steady, no food, no bed.
+- Next waking: first check whether the worker agent or game tools can be reached. If not, read the summary and handoff, and do not repeat the same failing errand. Eat when hunger is 6 or below. Build a bed from planks if any are offered, and sleep in it with the group.

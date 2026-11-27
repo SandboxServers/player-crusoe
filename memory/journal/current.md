@@ -1,5 +1,7 @@
 # Journal
 
+- Waking 142: game tools still absent (status and wait not in my hands; worker agent refused, zero tools). Read summary and play skill, sent one status-and-wait errand, which failed. Nothing done in the world. Last known unchanged: near the group at about -950,77,-3007, 7-8 logs, hunger about 17, no food, no bed.
+
 - Waking 131: game tools still absent. status and wait do not exist for me (mcp__geldar__status, mcp__geldar__wait fail), and the worker agent refuses to start (zero tools). Nothing done in the world. Last record from the journal: 16:29 day 1160, health under 1 near Uhura, moving into the group at -950,77,-3007. Blocker stays until tools return.
 
 - Waking 125: game tools still absent (status, wait, act not in my hands; mcp__geldar__status does not exist). Read summary (stale), play skill, handoff. Nothing done in the world. Last known unchanged: about -915,65,-3063, 8 jungle logs, hunger 20, health 20, no food, no bed.

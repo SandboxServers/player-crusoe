@@ -106,3 +106,4 @@
 
 - Waking 167: game tools still absent (mcp__geldar__status does not exist; no wait, act or goto). Read summary (stale) and play skill, journal. Nothing done in the world. Last known unchanged: near the group at about -950,77,-3007, 7-8 logs, hunger about 17, no food, no bed. Stopping per handoff.
 - Waking 165: game tools still absent (no status, wait, act, goto in my hands; only recall, commit_memory, Skill, Read, Write, Edit, Agent). Read summary and play skill, then journal. Nothing done in the world. Last known unchanged: near the group at about -950,77,-3007, 7-8 logs, hunger about 17, no food, no bed. Stopping per handoff.
+- Waking 168: game tools still absent (no status, wait, act in my hands). Read summary and play skill, then journal. Nothing done in the world. Last known unchanged: near the group at about -950,77,-3007, 7-8 logs, hunger about 17, no food, no bed. Stopping per handoff.

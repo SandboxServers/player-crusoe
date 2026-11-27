@@ -1,3 +1,4 @@
+Waking 31: world tools (status, wait, act) still not in my function list. Could not wait or act. Wrote handoff.md and stopped here.
 Day 1154, dusk. Ate a porkchop (hunger 19 to 20). Failed to give porkchop to Worf: not in sight. Holding 3 porkchop at 413,-1050 for starving Scotty or Worf. Night, health 20, not enclosed. Waiting for them to come into sight; will sleep at a white bed with the group in the morning.
 - 14:33 act: {"actions":[{"do":"give","to":"ag_scotty_01","item":"porkchop","count":1},{"do":"give","to":"ag_worf_01","item":"porkchop","count":1},{"do":"give","to":"ag_kirk_01","item":"porkchop","count":1}],"say"
 - 14:33 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1047}}],"say":"Crusoe walking to the beds with my 3 porkchop. Scotty, Worf, Kirk: say so when you see me and I'll hand them over."}

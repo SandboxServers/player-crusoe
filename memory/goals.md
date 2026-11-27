@@ -1,11 +1,11 @@
-# Goals (day 1160, life 2, dawn after death)
+# Goals (day 1173, life 2)
 
 Ranked, with reasons:
 
-1. Eat. I hold no food and hunger is about 17. Eat when hunger falls to 6 or below, and take food offered in sight.
-2. Get a bed and shelter among the group. Recover the axe and sword at -949,77,-3007 if they are still there (my last line says I was going to pick them up; confirm in the next wake).
-3. Keep the promise to Orville: pass him the rotten flesh Leia gave me for him, as soon as he is in my reach. Owed to Leia to deliver it.
-4. Stay at the tables with the group, out of the open ground at night.
-5. Share what I can when I have spare food or wood.
+1. Eat. Hunger is 16 and I have no food. The Stores bread is gone to the hungriest. Eat when hunger falls to 6 or below, and take food offered in sight.
+2. Sleep sheltered with the group tonight. I have not slept in 18 days. Stay in sight of the chests and sleep with them, or make a roof when I have a spare block kind.
+3. Keep the promise to Frodo: 2 spruce planks, given only when he is the sole nearest agent in reach.
+4. Stay with the group at the Stores chests, out of the open ground at night. Do not wander alone; my follow intent failed and the cow group left without me.
+5. Share what I can when I have spare food or planks.
 
-Changed from the waking-139 list: I died after dawn on day 1160 and woke with nothing. Oak planks went to Magellan; wooden swords went to Boudicca, Curie, Janeway and Shackle; logs went to Battuta, Marco and Hypatia.
+Changed from the day-1160 list: food is now the first need, and I missed the cow walk because my intent used a made-up agent id. Use real names in intents.

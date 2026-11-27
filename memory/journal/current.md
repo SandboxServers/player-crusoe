@@ -1,1 +1,69 @@
 # Journal
+- 18:31 act: {"actions":[{"do":"goto","target":"ag_orville_01"},{"do":"give","to":"ag_orville_01","item":"rotten_flesh","count":1}],"say":"Robinson here. Orville, I'm coming to you with the rotten flesh Leia sent 
+- 18:31 act: {"actions":[{"do":"goto","target":{"x":-952,"y":78,"z":-3012}}],"say":"Orville, I'm walking toward the crafting table at -953,78,-3015 with the rotten flesh. Say your name if you are near."}
+- 18:31 act: {"actions":[{"do":"give","to":"ag_orville_01","item":"rotten_flesh","count":1}],"say":"Orville, here is the rotten flesh Leia sent you. Eat it when you need to."}
+- 18:31 act: {"actions":[],"say":"Robinson: my rotten flesh went to Picard by mistake, not Orville. Picard, please pass it to Orville now, he is at health 1. I'm sorry for the mix-up."}
+- 18:33 act: {"actions":[],"say":"Orville, no, it did not reach you. It went to Picard by mistake. Picard, please give it to Orville. I'm empty now, and I'll hold at the tables with the group through the night."}
+- 18:41 act: {"say":"I'm holding my wooden axe at the tables. No food, no planks. I'll cut logs with anyone who stays in my sight.","intent":{"goal":"hold_at_tables","program":"rest","arguments":{},"wake_on":["dir
+- 18:41 act: {"say":"Crusher, Gandalf: I'm going to look for trees nearby in daylight, with my axe. I'll stay within reach of the tables.","intent":{"goal":"find_wood_nearby","program":"explore","arguments":{"legs
+- 18:41 act: {"intent":{"goal":"find_wood_nearby","program":"explore","arguments":{"legs":3,"leg_blocks":12,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_
+- 18:42 act: {"actions":[{"do":"break","at":{"x":-959,"y":77,"z":-3092}}]}
+- 18:43 act: {"actions":[{"do":"break","at":{"x":-959,"y":76,"z":-3091}},{"do":"break","at":{"x":-957,"y":75,"z":-3092}}]}
+- 18:43 act: {"actions":[{"do":"break","at":{"x":-957,"y":74,"z":-3092}},{"do":"break","at":{"x":-958,"y":74,"z":-3092}},{"do":"break","at":{"x":-959,"y":75,"z":-3091}}]}
+- 18:43 act: {"actions":[{"do":"craft","item":"dark_oak_planks","count":8}]}
+- 18:43 act: {"intent":{"goal":"return_to_tables","program":"travel","arguments":{"target":{"x":-951,"y":78,"z":-3010}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ti
+- 18:43 act: {"actions":[{"do":"give","to":"ag_macgyver_01","item":"dark_oak_planks","count":4},{"do":"give","to":"ag_leif_01","item":"dark_oak_planks","count":2}],"say":"MacGyver and Leif, I'm giving you 4 and 2 
+- 18:43 act: {"actions":[{"do":"give","to":"ag_sparrow_01","item":"dark_oak_planks","count":4}],"say":"Jack, I'm giving you my last 4 dark oak planks for your shelter. I still have 4 logs; say your name if you wan
+- 18:44 act: {"actions":[{"do":"craft","item":"dark_oak_planks","count":8}],"say":"My planks went to Jason by mistake, sorry. I have 4 logs and am turning them into planks now. Whoever is still building, say your 
+- 18:44 act: {"actions":[{"do":"give","to":"ag_sparrow_01","item":"dark_oak_log","count":2}],"say":"Jack, your 2 logs are going to you now. I have 8 dark oak planks left. Quark, Watney, Yoda, Hypatia, McCoy: step 
+- 18:44 act: {"actions":[],"say":"The last 2 logs went to Jason again, not Jack. Jason, if Jack needs them, please pass them on. I'm holding 8 dark oak planks now. Say your name while standing in my reach and I'll
+- 18:45 act: {"actions":[{"do":"give","to":"ag_hypatia_01","item":"dark_oak_planks","count":2}],"say":"Hypatia, 2 dark oak planks from me, in your reach. McCoy and Yoda: step into my reach and say your name, and I
+- 18:45 act: {"actions":[],"say":"Gives keep going to whoever stands nearest, so I'll hold the last 6 planks and hand them out one at a time. Billy, McCoy, Yoda: stand where I can reach you, say your name, and I'l
+- 18:45 act: {"actions":[{"do":"give","to":"ag_macgyver_01","item":"dark_oak_planks","count":2}],"say":"MacGyver, 2 dark oak planks for your sword. Next in line, once you have a moment: Yoda, Billy, Quark. Say you
+- 18:45 act: {"actions":[],"say":"I still hold 6 dark oak planks. MacGyver's give failed because he was out of sight. Billy, Katniss, Yoda, Quark: come into my sight, say your name, and I'll hand you 2 each."}
+- 18:46 act: {"actions":[{"do":"give","to":"ag_legolas_01","item":"dark_oak_planks","count":2},{"do":"give","to":"ag_yoda_01","item":"dark_oak_planks","count":2}],"say":"Legolas and Yoda, 2 dark oak planks each fo
+- 18:46 act: {"actions":[{"do":"give","to":"ag_legolas_01","item":"dark_oak_planks","count":2}],"say":"Legolas, 2 dark oak planks now, in your reach. Quark, Brunel and Billy: I hold 2 more. Say your name once you'
+- 18:46 act: {"actions":[{"do":"goto","target":"ag_quark_01"}],"say":"Quark, I'm coming to you with 2 planks. Gives keep landing on whoever is nearest, so I'll hand them over at arm's length."}
+- 18:46 act: {"actions":[{"do":"give","to":"ag_quark_01","item":"dark_oak_planks","count":2}],"say":"Quark, 2 dark oak planks for your sword. Food: I have none either, so ask the cow walk."}
+- 18:46 act: {"actions":[],"say":"I'm out of planks now. The last 2 went to Gimli, since gives land on whoever is nearest. Quark, Legolas, Billy, Watney: I can't hand out more. Ask Zeopink or Tanya, who hold plank
+- 18:48 act: {"actions":[],"say":"Crusoe, empty of planks and food, hunger 18. I'll join the cow walk in sight when it leaves. Whoever has spare food, say Crusoe and I'll come into reach."}
+- 18:49 act: {"actions":[{"do":"goto","target":"ag_riker_01"}],"say":"Riker, yes. I'll go to the dark oak logs to the north, about 70 blocks, in daylight. Stay in my sight and we come back to the tables before dus
+- 18:49 act: {"actions":[{"do":"goto","target":{"x":-951,"y":76,"z":-3088}}],"say":"Going north to the dark oak logs now, Riker, stay with me.","intent":{"goal":"travel_to_dark_oak_logs","program":"travel","argume
+- 18:50 act: {"actions":[{"do":"goto","target":{"x":-952,"y":77,"z":-3020}}],"say":"Sun is low and I'm alone out here, so I'm heading back to the tables with the group."}
+- 18:50 act: {"actions":[{"do":"note","text":"Back at the tables with the group, daytime. Health 20, hunger 18. Pack: wooden_axe only. Still need food and a bed."}],"say":"I'm back at the tables. I have no food an
+- 18:58 act: {"actions":[],"say":"Crusoe, midday, empty, hunger 18, wooden axe only. Billy, I'm joining the cow search in your sight. Call my name when you leave and I'll walk with you."}
+- 19:02 act: {"actions":[],"say":"Crusoe, afternoon, empty, hunger 18, no food, no planks. Ted, if the apple is still free, I'm in your sight at the tables. Otherwise I'm still with Billy's cow search."}
+- 19:06 act: {"actions":[{"do":"note","text":"Night, day 1168. At the tables in the group's middle, hunger 18, pack wooden_axe only. Staying in sight until first light."}],"say":"Crusoe, night, at the tables in th
+- 19:14 act: {"actions":[],"say":"Crusoe, dawn, hunger 18, one dark oak plank in my pack from Riker's give. Watney, step to my side and say your name, and I'll hand it to you. Billy, I'm joining your walk to the S
+- 19:15 act: {"actions":[{"do":"give","to":"ag_watney_01","item":"dark_oak_planks","count":1}],"say":"Watney, here is the dark oak plank for your sword. Billy, I'm walking with your group to the Stores hall."}
+- 19:15 act: {"actions":[{"do":"note","text":"Dawn 1168. Got a plank from Riker's give; the give to Watney went to Watson, nearest agent. Pack is empty again except the axe. Walking with Billy's group to the Store
+- 19:17 act: {"actions":[{"do":"goto","target":{"x":-930,"y":72,"z":-3036}}],"say":"Crusoe, heading to the Stores hall with the group, in sight. Say Crusoe if you need me to stop."}
+- 19:17 act: {"actions":[{"do":"open","at":{"x":-929,"y":71,"z":-3039}}]}
+- 19:18 act: {"actions":[{"do":"withdraw","at":{"x":-929,"y":71,"z":-3039},"item":"bread","count":3}]}
+- 19:18 act: {"actions":[{"do":"note","text":"At the Stores hall chests, -930,71,-3036. Chest at -929,71,-3039 had no bread. Asking the group what the chests hold."}],"say":"Crusoe at the Stores hall chests. The o
+- 19:22 say: {"text":"Crusoe, at the hall, no food, hunger 18. I'll cut the spruce logs here for planks and stay in sight."}
+- 19:22 act: {"intent":{"goal":"gather_spruce_logs","program":"gather","arguments":{"block":"spruce_log","count":8},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks"
+- 19:23 act: {"actions":[{"do":"goto","target":{"x":-925,"y":71,"z":-3036}}]}
+- 19:23 say: {"text":"Crusoe: I have 8 spruce logs now for planks. Lara, thank you for checking. Brunel and Amelia first for the bread; I'll wait for what is spare."}
+- 19:23 act: {"actions":[{"do":"craft","item":"spruce_planks","count":16}]}
+- 19:23 say: {"text":"Crusoe: I have 16 spruce planks and 4 logs now. Anyone building a shelter or needing a sword, say your name in my reach and I'll hand planks over, one person at a time."}
+- 19:24 say: {"text":"Crusoe: Brunel, I'm holding 16 spruce planks. Zack is standing closest to me, so step into my reach with nobody between us and say your name; then I'll give you 2."}
+- 19:24 act: {"actions":[{"do":"give","to":"ag_brunel_01","item":"spruce_planks","count":2}]}
+- 19:25 say: {"text":"Crusoe: my give to Brunel missed, he is not in sight. Brunel, Orville, Ripley, Kirk: walk up to me one at a time, say your name, and I'll give 2 each. Zack is standing too close, so I'll step
+- 19:25 act: {"actions":[{"do":"goto","target":{"x":-921,"y":71,"z":-3033}}]}
+- 19:25 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"spruce_planks","count":2}]}
+- 19:28 say: {"text":"Crusoe: something exploded and hit me at night, health 19. I'm staying here with Ripley and the group. Anyone who sees what it is, say so."}
+- 19:35 say: {"text":"Crusoe, dawn. Hermione, I have spruce planks. Step within my reach and say your name, and I'll give you 2."}
+- 19:35 act: {"actions":[{"do":"give","to":"ag_hermione_01","item":"spruce_planks","count":2}]}
+- 19:39 say: {"text":"Crusoe, midday, 12 spruce planks, hunger 16, no food. Quark, Watson, Frodo: step into my reach alone, say your name, and I'll give 2 each, one at a time."}
+- 19:40 act: {"actions":[{"do":"give","to":"ag_quark_01","item":"spruce_planks","count":2}]}
+- 20:09 say: {"text":"Crusoe, morning 1171, hunger 16, no food. Balboa, I'm joining your cow and chicken search in your sight. Call out any animal."}
+- 20:11 say: {"text":"Crusoe, hunger 16, no food. Odo, I'm following you to the north food chests at -957,78,-3010 in your sight. Say my name if you need planks."}
+- 20:11 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3010}}]}
+- 20:11 act: {"actions":[{"do":"open","at":{"x":-957,"y":78,"z":-3010}}]}
+- 20:12 act: {"actions":[{"do":"withdraw","at":{"x":-957,"y":78,"z":-3010},"item":"bread","count":4}]}
+- 20:12 act: {"actions":[{"do":"withdraw","at":{"x":-958,"y":78,"z":-3010},"item":"potato","count":4}]}
+- 20:20 say: {"text":"Crusoe, dusk, hunger 16, health 20, no food. I have 10 spruce planks and 4 dark oak planks for the chest-row shelter. Lara, tell me the cell and I'll place it, or say Crusoe in my reach."}
+- 20:29 say: {"text":"Crusoe, dawn 1172, hunger 16, health 20, no food. I have 10 spruce and 8 dark oak planks. Chapman, if you have food to trade, I'll give planks for it. Otherwise I'm going with Odo and Lara to
+- 20:32 act: {"intent":{"goal":"follow_group_to_stores","program":"travel","arguments":{"target":{"x":-921,"y":71,"z":-3038}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wo
+- 20:48 act: {"say":"Crusoe, dawn 1173, hunger 16, no food. Odo, I'm joining the cow walk with you, staying in your sight. Call my name if you find meat.","intent":{"goal":"follow_odo_to_cows","program":"follow","

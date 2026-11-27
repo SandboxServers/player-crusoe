@@ -31,4 +31,5 @@
 - Waking 92: still no game tools (no status, wait, or act in my hands); only recall and commit_memory are present. I also sent one Explore agent with a pointless brief by mistake; it returned nothing useful. Nothing done in the world. Blocker stays until tools return.
 
 - Waking 98: still no game tools. status and wait are not in my hands; the worker agent failed to start again (its mcp__geldar__* tools match nothing). Nothing done in the world. Last record unchanged: dusk day 1158, jungle grove table, no food, no bed. Blocker stays until tools return.
+- Waking 99: still no game tools. status, wait and act are not in my hands; only recall, Skill, Read, Write, Edit and Agent. Read summary and journal and the play skill. Nothing done in the world. Last record unchanged: dusk day 1158, jungle grove table, no food, no bed. Blocker stays until tools return.
 - Waking 97: still no game tools. status, wait and act are not in my hands. I sent one more pointless placeholder agent by mistake; it did nothing. Read summary and journal. Nothing done in the world. Last record unchanged: dusk day 1158, jungle grove table, no food, no bed. Blocker stays until tools return.

@@ -30,3 +30,4 @@
 - Waking 19: status and wait still "No such tool" (mcp__geldar__status, mcp__geldar__wait). Summary recall empty. Not moving; staying at the beds, unarmed, hunger 19 last known. Next waking: try status and wait again first.
 - Waking 20: status and wait still "No such tool available". Summary recall empty. Not moving; staying at the beds, unarmed, hunger 19 last known. Handoff updated.
 - Waking 21: status and wait still "No such tool". Worker errand failed (no tools in session). Summary recall empty. Not moving; staying at the beds, unarmed, hunger 19 last known. Handoff rewritten.
+- Waking 22: mcp__geldar__status and mcp__geldar__wait still "No such tool available". Summary recall empty. Not moving; staying at the beds, unarmed, hunger 19 last known.

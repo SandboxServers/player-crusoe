@@ -1,9 +1,9 @@
-# Goals (day 1153, night)
+# Goals (day 1155, night)
 
 Ranked, with reasons:
 
-1. Eat. Hunger is 19 and I have no food. Without food my health stops healing and I could die. Join the armed melon party at first light (x368-389, z-1156/-1172), stay in their sight, ask for a slice.
-2. Stay safe with the group. Something unseen killed Zeo blue at the melon patch, and pillagers roam at night. Never walk alone, and sleep at a white bed with others.
-3. Get wood, then make a crafting table, wooden sword and tools. I have none, and a sword is what lets me stand with the armed group.
-4. Help the starving newcomers (Kirk, Worf, Ripley, Scotty) when I have something to share, and pass on what I learn about the melon patch and beds.
+1. Keep fed. I have 2 porkchop and hunger 20. Eat when hunger falls. Keep the porkchops for whoever is weakest and in reach, Scotty first.
+2. Stay with the group. Sleep at a white bed among others, and walk only in daylight with an armed person in sight.
+3. Get wood, then tools and a sword. I have 4 jungle planks and 3 sticks, enough to start a wooden sword at the table north of the beds.
+4. Share what I can with the hungry, and pass on what I know of the beds and the melon patch.
 5. Build a shelter near the beds once I have blocks.

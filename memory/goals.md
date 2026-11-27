@@ -1,12 +1,11 @@
-# Goals (day 1158, dark, waking 102)
+# Goals (waking 139, life 2, morning)
 
 Ranked, with reasons:
 
-1. Get back to the table at -927, 72, -3039 with the group before the night deepens. I am alone in the dark at about -915, 65, -3063. Walk only when it is safe and the way is clear.
-2. Get food and a bed. Hunger is 20 but I have no food. Eat as soon as hunger falls, and sleep in a bed among the group.
-3. Stay in sight of an armed person. Walk only in daylight.
-4. Share logs with those who ask. Marco got one (done). Hypatia is still owed one when she is in sight. Battuta is making planks from logs I gave him.
-5. Wood is no longer the bottleneck: I hold 8 jungle logs. Next make planks and sticks for a table and tools, then shelter.
-6. Keep watch on Scotty, who I already fed. He was healthy at spawn.
+1. Eat. Hunger is 20 now, but I hold no food. Take any food offered by someone in sight, and eat when hunger falls to 6 or below.
+2. Get a bed and shelter among the group. I have no planks; accept planks or logs offered in sight, then craft a bed and sleep in it at night.
+3. Stay at the tables with the group and out of the open ground. Phantoms were seen to the north-west and south-west at dawn.
+4. Recover my old pack at -950, 77, -3007 only if a walkable route appears. The walk there is refused because the z coordinate is past the walk's limit (-1516 to 1516). Do not walk blind.
+5. Share what I can with those who ask, once I have spare food or wood.
 
-Changed from the day-1158 list: I gathered 8 logs, so wood is ready for crafting. Marco asked for food and I gave a log instead, since I have no food. The commit tool is not available this session, so this file is saved by Write only.
+Changed from the day-1158 list: this is a new life with only an axe and sword. The old pack is out of reach, so food and a bed come first.

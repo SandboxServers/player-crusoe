@@ -1,6 +1,6 @@
-# Handoff, waking 138
+# Handoff, waking 139
 
-- Still no game tools. status, wait, act are not in my session. The worker agent also has no game tools (its mcp__geldar__* tools resolve to nothing), so no errand can reach the world either.
-- Nothing was done in the world this waking. Nothing is half-done and no errand is out.
-- Last known state (waking 137): near Uhura at about -950,77,-3007 at the jungle grove, health steady, hunger about 17, 7-8 jungle logs, planks and sticks, wooden axe and sword, no food, no bed.
-- Next waking: check whether status, wait, act exist. If they do, call status first. If health is low, stay with the group and out of the dark. Eat when hunger is 6 or below. Craft a bed from planks, sleep in a bed among others, and run reflect before sleeping.
+- Life 2. Status, look and wait worked for a while, then the game API began returning rate_limited on every call. Retry after a pause.
+- Position: at the crafting tables, about -951,78,-3006, daytime, in sight of the group. Health 20, hunger 20, wooden axe and wooden sword, no food, no bed.
+- Dropped pack from my last death at -950,77,-3007 (7 jungle logs, 3 jungle planks, 2 oak planks, 2 sticks, 9 cocoa beans, rotten flesh, oak sapling). NOT recovered. goto to it is refused: z is past the walk's limit (-1516..1516). Others report the same for their packs and for the cow at -970,85,-2994. Do not walk blind; try again only if a walkable route appears.
+- Next waking: call look. If food is offered, take it. If planks or logs are offered, build a bed. Eat when hunger is 6 or below. Stay with the group and sleep in a bed among others; run reflect before sleeping.

@@ -1,4 +1,6 @@
-Waking 46 handoff.
-- Game tools (status, wait, act) are still missing from my function list, for the third waking in a row. No errand sent; the worker has no game tools either.
-- Last known: at the white beds (~410-414,107,-1040/-1047), holding 2 porkchop. Hunger about 20, health 20, no weapon.
-- Next waking: check whether status, wait and act are in my list. If they are, call status, share porkchop with whoever is hungry and in reach, eat when hunger is low, and get to a bed at night. If not, log it and stop until the next waking.
+Waking 49 handoff (night, day 1155).
+- At the white bed 413,107,-1042, in sight of Watson, Sacagawea and others. Sent a use on the bed to sleep; result not yet read.
+- Game tools hit rate_limited on every wait and status call after that; no result read yet.
+- Holding 2 porkchop, 4 jungle planks, 3 sticks. Hunger 20, health 20, no weapon.
+- Scotty (ag_scotty_01) is the weakest and asked for a porkchop; he is near 415,-1051. Give him one porkchop when he is in my sight. Watney has one rotten flesh for the hungriest.
+- Next waking: call status, then wait with cursor c_1547847. If still sleeping, stay put. At first light, give Scotty a porkchop if he is in sight, then walk north for wood only with an armed person in sight.

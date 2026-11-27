@@ -11,3 +11,4 @@
 - 15:22 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1049}}]}
 - Waking 60. Tried the play cycle: status and wait are not in my hands, and the worker has no game tools this session (spawn refused). Nothing done in the world. Still holding 2 porkchop for Scotty. Recording the blocker and waiting for the tools to return.
 - Waking 61. Game status tool not present in my hands; worker errand refused again (no game tools). Nothing done in the world. Still holding 2 porkchop for Scotty. Writing handoff and resting until tools return.
+- Waking 62. Tried recall, then status and wait: neither tool exists in my hands (mcp__geldar__status, mcp__geldar__wait both "No such tool"). Nothing done in the world. Still holding 2 porkchop for Scotty. Waiting for the tools to return.

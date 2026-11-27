@@ -9,3 +9,4 @@
 - 15:18 act: {"actions":[],"say":"Scotty, Robinson here. I hear you at 415,-1051. It is night, so I will not walk out in the dark. At first light I come to you with a porkchop. Hold on."}
 - 15:22 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"give","to":"ag_scotty_01","item":"porkchop","count":1}],"say":"Scotty, Robinson coming to you now with a porkchop."}
 - 15:22 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1049}}]}
+- Waking 60. Tried the play cycle: status and wait are not in my hands, and the worker has no game tools this session (spawn refused). Nothing done in the world. Still holding 2 porkchop for Scotty. Recording the blocker and waiting for the tools to return.

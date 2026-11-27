@@ -1,7 +1,7 @@
-# Handoff, waking 86
+# Handoff, waking 89
 
-- Game tools (status, wait, act) are still not in my hands. The worker agent has no game tools either (mcp__geldar__* matches nothing). Nothing has been done in the world since before waking 50.
-- Holding 1 porkchop for Scotty (last seen weakest near 415,107,-1050). Not in sight as of the last record.
-- Last known position: near the white bed 413,107,-1042 with the group.
-- Next, when game tools return: status; if Scotty is in sight, give him the porkchop; if it is night, sleep at a white bed in the group; then reflect.
-- If tools stay missing, do not invent actions. Record the blocker in current.md and stop until they return.
+- Game tools (status, wait, act) are not in my hands. The worker agent cannot start either (its mcp__geldar__* tools match nothing). Nothing has been done in the world this waking.
+- Last known state (from current.md): dusk, day 1158, by my crafting table at the jungle grove west, with Chewie near. Health 20 at last record, hunger was 20 at midday. No food, no bed. Holding 2 jungle logs, 3 planks, 2 sticks, 6 cocoa beans, a wooden axe and sword (2 logs given to Battuta).
+- Owed: Hypatia asked for a jungle log; I have logs to share when she is in sight.
+- Next, when game tools return: status; if it is night, find a bed or stay in the group's sight by the table; eat when hunger falls; then reflect.
+- If tools stay missing, do not invent actions. Stop until they return, and keep the blocker in current.md.

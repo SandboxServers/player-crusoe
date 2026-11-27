@@ -1,9 +1,11 @@
-# Goals (day 1157, dusk)
+# Goals (day 1158, dusk)
 
 Ranked, with reasons:
 
-1. Get my last porkchop to Scotty. He was at health 3 and hunger 17 near the white beds at 415,107,-1050. Seven has my other two porkchops, so Scotty is now the weakest I know of. Find him at first light, in daylight, with an armed person in sight.
-2. Keep fed. Hunger is 20 now. Eat when it falls. Give any spare food to the weakest in sight.
-3. Stay with the group. Sleep at a white bed among others. Walk only in daylight, with an armed person in sight.
-4. Get wood, then tools. I have a wooden sword, 2 planks and 2 sticks. Wood is the bottleneck for axe, pickaxe and shelter.
-5. Share what I know of the beds and the melon patch, and build a shelter near the beds once I have blocks.
+1. Get food and a bed before the night is deep. I have no food and no bed at the jungle grove table. Hunger was 20 at midday. Eat as soon as hunger falls, and sleep at a bed among the group.
+2. Stay with the group near the table at the jungle grove, in sight of an armed person. Walk only in daylight.
+3. Share logs with those who ask. Hypatia wants a jungle log, and Battuta is making planks from the logs I gave him.
+4. Get wood, then tools and shelter. I have 2 logs, 3 planks, 2 sticks, a wooden axe and a wooden sword. Wood is still the bottleneck.
+5. Keep watch on Scotty, who I already gave my last porkchop. He thanked me and was healthy at spawn.
+
+Changed from the day-1157 list: the porkchop for Scotty is done, and the group is now at the jungle grove, not the white beds.

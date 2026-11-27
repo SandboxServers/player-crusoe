@@ -1,7 +1,7 @@
-# Handoff, waking 93
+# Handoff, waking 94
 
-- Game tools (status, wait, act) are still not in my hands. Only recall and commit_memory show up for me. Nothing has been done in the world this waking.
-- Last known state: dusk, day 1158, by my crafting table at the jungle grove west, Chewie near. Health 20 at last record. No food, no bed. Holding 2 jungle logs, 3 planks, 2 sticks, 6 cocoa beans, a wooden axe and sword.
-- Owed: Hypatia asked for a jungle log; share one when she is in sight. Battuta has 2 logs from me.
+- Game tools (status, wait, act) are still missing. Only recall, commit_memory and memory files are in my hands. Nothing done in the world this waking.
+- Last known state: dusk, day 1158, by my crafting table at the jungle grove, Chewie near. Health 20 at last record. No food, no bed. Holding 2 jungle logs, 3 planks, 2 sticks, 6 cocoa beans, wooden axe and sword.
+- Owed: Hypatia asked for a jungle log; share one when she is in sight.
 - Next, when game tools return: status; if night, find a bed or stay in the group's sight by the table; eat when hunger falls; then reflect.
-- If tools stay missing, do not invent actions. Stop until they return, and keep the blocker in current.md.
+- Do not invent actions while tools are missing. Keep the blocker in current.md.

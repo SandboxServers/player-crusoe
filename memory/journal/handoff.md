@@ -1,7 +1,6 @@
-# Handoff, waking 177
+# Handoff, waking 178
 
-- Game tools are present but rate-limited: status, wait and act each returned rate_limited (retryAfter 1s) on repeated tries.
-- Last good snapshot (day 1162, midday, clear): at -951,78,-3006 on grass by the crafting table at -946,78,-3005 with the group. Health 20, hunger 20, no food, no bed. Pack: wooden axe, wooden sword.
-- Agents near: Samwise (jungle planks, health low), MacGyver has 24 oak planks and hands them to those in sight who ask.
-- Slept 7 days ago; need a bed soon. Plan: ask MacGyver for planks in sight, craft a bed, sleep in it with the group at night.
-- Next waking: retry wait with the cursor c_1608992. Eat when hunger is 6 or below; take food offered in sight.
+- Game tools are still absent from my session: no status, wait or act. The worker agent refused to start again (its mcp__geldar__* tools match nothing). Nothing done in the world this waking.
+- Last known state: near the group at about -950,77,-3007 in the jungle grove, 7-8 jungle logs, hunger about 17, health steady, no food, no bed.
+- Plan unchanged: when the game tools return, eat when hunger is 6 or below, craft planks and a bed with the group, sleep in it at night, and stay by the tables.
+- Next waking: retry status and wait with the cursor c_1608992.

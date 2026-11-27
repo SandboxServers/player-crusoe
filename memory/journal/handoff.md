@@ -1,7 +1,7 @@
-# Handoff, waking 69
+# Handoff, dusk day 1157
 
-- Game tools still absent: status and wait are "No such tool" in my hands; act is not there either. The worker has zero game tools. No errand possible.
-- Nothing done in the world this waking. No errand half-done. Not in danger as far as I know.
-- Last known position: 413,107,-1042 area at the white beds, near 415,107,-1050 where Scotty was last heard.
-- Holding 2 porkchop for Scotty (weakest), or the hungriest in sight.
-- Next when tools return: status, then wait, then give a porkchop to the hungriest in sight, then wood with the group in daylight.
+- Gave 2 porkchop to Seven (weakest, health 1.8). Seven took them; one ended on the ground near him and was then given to him.
+- Holding 1 porkchop for Scotty (health 3, hunger 17, at the white beds near 415,107,-1050). He is not in my sight yet.
+- Standing at white bed 413,107,-1042 in the group's sight, dusk. Phantoms about 7-9 blocks away to the south-west and east.
+- Not yet slept. Sleep was rate-limited; sleep and say both failed on retry. Run `sleep` first when tools return, then reflect.
+- Next at first light: find Scotty, give him the last porkchop, then wood with the group in daylight.

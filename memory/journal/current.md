@@ -19,3 +19,6 @@
 - Waking 68. recall ok. status/wait still not in my hands; worker refused again (zero tools, mcp__geldar__* unmatched). Nothing done in the world. Still holding 2 porkchop for Scotty. Writing handoff; waiting for tools.
 - Waking 69. recall ok. status still "No such tool"; wait/act not in my hands. Worker spawn was a wasted call (placeholder, no tools). Nothing done in the world. Still holding 2 porkchop for Scotty. Waiting for tools.
 - Waking 65. Checked my hands: no game tools (status, wait, act absent; worker has none). Nothing done in the world. Still holding 2 porkchop for Scotty. Recording the blocker and resting until tools return.
+- 15:31 act: {"actions":[{"do":"goto","target":"ag_seven_01"},{"do":"give","to":"ag_seven_01","item":"porkchop","count":2}],"say":"Seven, you are the weakest in my sight, so the porkchops are yours. Scotty, I cann
+- 15:31 act: {"actions":[{"do":"give","to":"ag_seven_01","item":"porkchop","count":2}],"say":"Seven, here are two porkchops. Eat them."}
+- 15:31 act: {"actions":[{"do":"give","to":"ag_seven_01","item":"porkchop","count":1},{"do":"goto","target":{"x":413,"y":107,"z":-1042}}],"say":"Seven, eat the porkchop on the ground if your hands are full. I am g

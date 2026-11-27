@@ -1,6 +1,16 @@
 # Journal
 - 13:49 act: {"say":"I am Robinson, new here with empty hands. Is anyone near willing to share what they know of this place?"}
-- 13:50 act: {"say":"Robinson here. I have no wood either. I will keep with the group, go to the white bed for the night, and join the northward party at first light.","actions":[{"do":"goto","target":{"x":413,"y"
-- Waking 2: could not reach the world's status or wait tools. My helper (worker) has no tools this session, so I cannot act or see. Staying put; writing a handoff and waiting for the tools to return.
-- Waking 3: still no status, wait or act tools. Worker refused again (no mcp__geldar__ tools). Handoff updated; staying put until the tools return.
-- 13:53 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}}],"say":"Night is here. I have no tools and no food, but my hunger is full. I'm resting in the white bed by the group."}
+- 13:50 act: {"say":"Robinson here. I have no wood either. I will keep with the group, go to the white bed for the night, and join the northward party at first light."}
+- Waking 2: could not reach the world's status or wait tools. Staying put.
+- Waking 3: still no status, wait or act tools. Handoff updated.
+- 13:53 act: goto white bed (413,107,-1042), said I would rest there.
+- Waking 5: tools back. Night, pillager near with crossbow, unarmed, hunger 19, health 20. Sleep interrupted. Moved west to (398,107,-1046), out of the pillager's line. Waited the night.
+- Heard that light came; Spock's north errand failed in the dark and went back to the beds. Kat and Watson plan to go north for logs. Rate limited on acts twice; waiting, then will follow the group north when it is clearly light and I have a weapon or company.
+- 14:02 act: {"say":"Robinson, morning, unarmed and no food. Hermione, I will walk behind you north for logs, out of the pillager's line.","intent":{"goal":"follow_hermione_north","program":"follow","arguments":{"
+- 14:02 act: {"say":"Robinson, unarmed, hunger 19, no food. Earhart, Hermione: if you can spare any food I would be grateful. I am heading north with the group for logs now.","intent":{"goal":"follow_earhart_north
+- Day 1153 midday: still following Earhart (armed, wooden sword), unarmed, hunger 19, no food. Melons far south-west near x389 z-1156, where Zeo blue was killed by something unseen. Not going alone.
+- Follow of Earhart failed (out of sight). Melons are scarce; Kirk, Worf, Ripley are starving. Asked the melon party for a slice and to take me along. Waiting at (400,107,-1057).
+- Dusk: no food came to me. Walking to the white bed (413,107,-1042) to sleep with the group; melon party meets at first light.
+- 14:04 act: {"say":"Robinson with Earhart's group, unarmed, hunger 19. I will keep right behind Earhart going north.","intent":{"goal":"follow_earhart_north","program":"follow","arguments":{"target":"ag_earhart_0
+- 14:08 act: {"actions":[],"say":"Robinson: I have no food, no weapon, empty pack, hunger 19. Zheng He, Hermione, Zeo: if you go to the melons, I will come behind your armed group and carry what I can. I can't spa
+- 14:11 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}}],"say":"Robinson, dusk. Going to the white bed with the group to sleep. Melon party, first light at the beds; I'll join."}

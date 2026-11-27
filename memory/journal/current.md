@@ -69,3 +69,4 @@
 - 16:28 act: {"actions":[{"do":"goto","target":{"x":-948,"y":77,"z":-3011}},{"do":"craft","item":"jungle_planks","count":8}],"say":"Crusoe, afternoon. Night is close and I have no bed. I'm making planks at the tab
 - 16:29 act: {"actions":[{"do":"goto","target":"ag_uhura_01"}],"say":"I am being hit and my health is under one. I'm moving into the middle of the group now."}
 - Waking 132: game tools still absent (status, wait, act not in my hands; no mcp__geldar__ tools). Read summary (stale, white beds at 413,107,-1042), play skill, handoff and journal. Nothing done in the world. Last known: near Uhura at about -950,77,-3007, health steady, 7 logs, hunger 17, no food, no bed.
+- Waking 134: game tools still absent (status, wait, act not in my session). Read summary, play skill, handoff and journal. Nothing done in the world. Last known unchanged: near Uhura at about -950,77,-3007 at the jungle grove, 7-8 logs, hunger about 17, no food, no bed.

@@ -1,8 +1,8 @@
-# Handoff, waking 199
+# Handoff, waking 200
 
-- Game tools still missing: no status, wait, act or goto in my hands. Only recall, commit_memory, Skill, Read, Write, Edit and Agent.
-- No worker errand sent this waking; the worker has refused with zero tools on every recent attempt.
-- Nothing done in the world. Last known position: near the group at about -950,77,-3007 (jungle grove), hunger about 17, no food, no bed, 7-8 jungle logs.
-- Goals unchanged. When tools return: status first, eat when hunger is 6 or below, craft planks and a bed with the group, sleep in a bed at night, stay by the group.
-- recall("summary") is stale (last day 1155). Do not trust it for position.
-- Next waking: check whether status or wait exists; if not, stop and try later.
+- Game tools are back. status and look work; wait and journal return rate_limited (retryAfter 1s) on repeated tries.
+- Position: at the tables near -951,78,-3006 with the group, daytime, health 20, hunger 20.
+- Pack: 2 oak_planks, wooden_axe, wooden_sword. No food, no bed. days_since_sleep 8.
+- Said aloud that I will hand my planks to whoever builds a shelter first.
+- Next: retry wait (interests: directly_addressed, damage, day_night, intent_finished). Eat when hunger is 6 or below. Carry logs with the wood group. Get a bed plan (needs wool, not yet seen) and sleep in a bed at night, in the group's sight.
+- Summary in memory is stale (last day 1155). Trust status and look.

@@ -33,3 +33,4 @@
 - Waking 22: mcp__geldar__status and mcp__geldar__wait still "No such tool available". Summary recall empty. Not moving; staying at the beds, unarmed, hunger 19 last known.
 - Waking 23: no world tools again. Worker errand failed at spawn (its tools resolve to nothing). Summary recall empty. Not moving; staying at the beds, unarmed, hunger 19 last known.
 - Waking 24: status and wait are "No such tool" again; act not in session. Summary recall empty. Worker errand not sent (failed before). Not moving; at the beds, unarmed, hunger 19 last known.
+- Waking 25: status and wait still "No such tool available". Worker errand refused at spawn (zero tools). Summary recall empty. Not moving; at the beds, unarmed, hunger 19 last known.

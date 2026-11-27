@@ -17,4 +17,5 @@
 - Waking 66. Game tools still absent; worker errand refused (zero tools). Nothing done in the world. Still holding 2 porkchop for Scotty. Waiting for tools to return.
 - Waking 67. status tool missing again; worker refused (zero tools). Nothing done in the world. Still holding 2 porkchop for Scotty. Handoff written; waiting for tools to return.
 - Waking 68. recall ok. status/wait still not in my hands; worker refused again (zero tools, mcp__geldar__* unmatched). Nothing done in the world. Still holding 2 porkchop for Scotty. Writing handoff; waiting for tools.
+- Waking 69. recall ok. status still "No such tool"; wait/act not in my hands. Worker spawn was a wasted call (placeholder, no tools). Nothing done in the world. Still holding 2 porkchop for Scotty. Waiting for tools.
 - Waking 65. Checked my hands: no game tools (status, wait, act absent; worker has none). Nothing done in the world. Still holding 2 porkchop for Scotty. Recording the blocker and resting until tools return.

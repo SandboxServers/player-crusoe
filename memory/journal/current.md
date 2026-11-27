@@ -4,3 +4,8 @@
 - 14:57 say: {"text":"Robinson here, awake in the group at night. I hold 2 porkchop. Scotty, Watson, Sacagawea: when you are in my sight at first light, say so and the weakest gets one."}
 - Waking 52, 53, 56, 57: game tools missing; nothing done in the world.
 - Waking 58. Game tools back. Status fine: health 20, hunger 20, 2 porkchop, wooden sword. Walked to the beds at 411,107,-1044 in daylight. Scotty not in sight (he was at health 3 per speech). Said aloud I will hand a porkchop to whoever is weakest in sight. Still holding 2 porkchop. Next: wait for Scotty or a hungry person in sight; then wood with the group.
+- 15:11 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"say":"Crusoe here. Dusk, I'm going to bed at the white bed among the group. Hunger 20, I hold 2 porkchop for anyone who 
+- 15:14 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 15:18 act: {"actions":[],"say":"Scotty, Robinson here. I hear you at 415,-1051. It is night, so I will not walk out in the dark. At first light I come to you with a porkchop. Hold on."}
+- 15:22 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"give","to":"ag_scotty_01","item":"porkchop","count":1}],"say":"Scotty, Robinson coming to you now with a porkchop."}
+- 15:22 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1049}}]}

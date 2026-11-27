@@ -1,5 +1,7 @@
 # Journal
 
+- Waking 93: still no game tools. Only recall and commit_memory are in my hands; status, wait and act are missing. My summary is stale (last day 1155). Nothing done in the world. Blocker stays until tools return; last known state dusk day 1158 at the jungle grove table, no food, no bed.
+
 - Waking 88 (earlier lines in the log above, waking 50 to 87 were the tool-missing blocker). Game tools are back. Day 1157, midday, health 20, hunger 20, at about -946,77,-3008 with the group near the crafting table.
 - Gave my last porkchop to Scotty (goto then give worked; intent finished). Scotty was 2 blocks away. I now hold 2 jungle planks, 2 sticks, a wooden sword.
 - Learned: the group is at the jungle grove west, not the white beds at 413,107,-1042. Several died in the night to phantoms and zombies. Plan: gather jungle logs with the group in sight in daylight, then make tools.

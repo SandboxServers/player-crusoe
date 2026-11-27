@@ -67,3 +67,10 @@
 - 20:29 say: {"text":"Crusoe, dawn 1172, hunger 16, health 20, no food. I have 10 spruce and 8 dark oak planks. Chapman, if you have food to trade, I'll give planks for it. Otherwise I'm going with Odo and Lara to
 - 20:32 act: {"intent":{"goal":"follow_group_to_stores","program":"travel","arguments":{"target":{"x":-921,"y":71,"z":-3038}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wo
 - 20:48 act: {"say":"Crusoe, dawn 1173, hunger 16, no food. Odo, I'm joining the cow walk with you, staying in your sight. Call my name if you find meat.","intent":{"goal":"follow_odo_to_cows","program":"follow","
+- 21:03 act: {"say":"Crusoe, night 1173, hunger 16, health 20, no food. Staying at the Stores chests in the group's sight. Frodo, I still owe you 2 spruce planks; I'll hand them when you are the only one in reach.
+- 21:09 act: {"say":"Crusoe, morning 1174, hunger 16, no food, 19 days without sleep. I hold 10 spruce and 8 dark oak planks. Food-holders, if you have spare food, say your name and I'll trade planks for it. Frodo
+- 21:13 act: {"say":"Frodo, I'll give you the 2 spruce planks as soon as the crowd thins. Say your name when you are alone within reach and I'll hand them over."}
+- 21:21 act: {"say":"Frodo, I see you, but five others are within a block of me, so the planks wait until you are the only one near. Step two blocks clear of the crowd and say your name again."}
+- 21:25 act: {"say":"Crusoe, morning 1175, hunger 16, health 20, no food. Owed 2 spruce planks to Frodo, waiting until he is alone in my reach. I'm staying at the chests in sight."}
+- 21:33 act: {"say":"Frodo, Leif, Spock, Kirk, Tubman, Riker, Watson and Gimli are still in my reach, so the planks wait. I'll hand them over the moment you are the only one near me."}
+- 22:33 act: {"actions":[{"do":"note","text":"Dawn 1178. Hunger 16, health 20, no food, not enclosed. Crowd still within reach of Frodo, so the 2 spruce planks wait. Staying at the chests in sight."}],"say":"Cruso

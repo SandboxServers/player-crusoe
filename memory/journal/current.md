@@ -36,3 +36,4 @@
 - Waking 25: status and wait still "No such tool available". Worker errand refused at spawn (zero tools). Summary recall empty. Not moving; at the beds, unarmed, hunger 19 last known.
 - Waking 26: no status, wait or act tool in my function list this session; the play skill's first step cannot run. Summary recall empty. Not moving; at the beds, unarmed, hunger 19 last known. Next waking: check the tool list again first.
 - Waking 28: status, wait and look exist now but every call returns rate_limited (retry after 1s). Could not see or act. Not moving; at the beds, unarmed, hunger 19 last known. Next: retry status, then wait.
+- Waking 29: recall summary empty. No status, wait or act in my function list (only recall, Read, Edit, Write, Skill, Agent, commit_memory). Not moving; at the beds, unarmed, hunger 19 last known. Next: check tool list first.

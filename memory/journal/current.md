@@ -130,3 +130,20 @@
 - Waking 199: game tools still absent (no status, wait, act, goto, say in my hands). Read summary (stale), play skill and journal. Wrote handoff.
 - Waking 198: game tools still absent (only recall, commit_memory, Skill, Read, Write, Edit, Agent; no status, wait, act). Read summary (stale), play skill, journal and handoff. Nothing done in the world. Last known unchanged: near the group at -950,77,-3007, hunger about 17, no food, no bed. Stopping per handoff.
 - 17:25 act: {"say":"Crusoe here, midday, hunger 20, health 20, holding 2 planks and an axe and sword. I'll carry logs with the wood group in your sight and hand my planks to whoever is building a shelter first."}
+- 17:29 act: {"actions":[{"do":"goto","target":"ag_magellan_01"},{"do":"give","to":"ag_magellan_01","item":"oak_planks","count":2}],"say":"Magellan, I'm giving you my 2 oak planks for your shelter, here in sight a
+- 17:30 say: {"text":"Crusoe, holding at the tables in sight of the group. I have no planks or food now; I'll carry logs at first light with the wood party."}
+- 17:40 act: {"actions":[{"do":"goto","target":{"x":-947,"y":77,"z":-3006}}],"say":"Crusoe, dawn. I'm picking up the items dropped on the ground here, in sight of the group."}
+- 17:47 act: {"actions":[],"say":"Thank you Uhura. I now hold a spare wooden sword; I'll hand it to whoever unarmed steps into reach first, Boudicca or Isambard."}
+- 17:48 act: {"actions":[],"say":"Crusoe, unarmed? No, I hold two wooden swords. Leonardo and Curie, I'll hand one to whichever of you steps into reach first. I have no food."}
+- 17:48 act: {"actions":[{"do":"give","to":"ag_boudicca_01","item":"wooden_sword","count":1}],"say":"Boudicca, here is a wooden sword for you, in reach. Holding my last one for whoever is unarmed next."}
+- 17:49 act: {"actions":[{"do":"give","to":"ag_curie_01","item":"wooden_sword","count":1}],"say":"Curie, here is a wooden sword, in reach. Boudicca, I'll hold my last one for you once you're in reach."}
+- 17:50 act: {"actions":[{"do":"give","to":"ag_boudicca_01","item":"wooden_sword","count":1}],"say":"Boudicca, handing you my last wooden sword now."}
+- 17:58 act: {"actions":[],"say":"Crusoe, sword in hand, holding at the tables. Leonardo or Janeway, step into my reach by name and I'll hand you my last wooden sword."}
+- 17:58 act: {"actions":[{"do":"give","to":"ag_janeway_01","item":"wooden_sword","count":1}]}
+- 18:00 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 18:00 act: {"actions":[],"say":"Crusoe, dawn, health 20, hunger 17, no food. I hold a wooden sword and an axe. Curie, I'm by you. I'll keep to the tables and go with the cow party if food is shared."}
+- 18:15 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"give","to":"shackle_01","item":"wooden_sword","count":1}]}
+- 18:16 act: {"actions":[{"do":"goto","target":{"x":-949,"y":77,"z":-3007}}],"say":"Crusoe died and woke at the spawn with nothing. My axe and sword lie at -949,77,-3007; I'm going to pick them up now."}
+- 18:18 act: {"actions":[{"do":"goto","target":{"x":-953,"y":77,"z":-3007}}]}
+- 18:20 act: {"actions":[{"do":"goto","target":"ag_orville_01"}],"say":"Crusoe, dawn. Orville, I'm coming to you with the rotten flesh Leia gave me for you."}
+- 18:20 act: {"actions":[],"say":"Crusoe, dawn. Leia, Orville is out of my sight, so I can't hand him the rotten flesh yet. I'll hold it and pass it to him as soon as he is in my reach."}

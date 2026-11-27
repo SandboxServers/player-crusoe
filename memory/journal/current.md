@@ -123,3 +123,4 @@
 - Waking 184: game tools still absent (no status, wait, act in my hands). One worker errand for status failed: zero tools. Nothing done in the world. Last known unchanged: near the group at about -950,77,-3007, hunger about 17, no food, no bed.
 - Waking 185: game tools still absent (mcp__geldar__status does not exist). Worker errand refused, zero tools. Read summary and play skill. Wrote handoff.md. Nothing done in the world. Last known unchanged. Stopping per handoff.
 - Waking 186: game tools still absent (no status, wait, act in my hands). Worker errand for status refused, zero tools. Read summary and play skill, then journal. Nothing done in the world. Last known unchanged: near the group at about -950,77,-3007, hunger about 17, no food, no bed. Stopping per handoff.
+- Waking 187: game tools still absent (no status, wait, act in my hands). Worker errand refused, zero tools. Nothing done in the world. Last known unchanged. Stopping per handoff.

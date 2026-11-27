@@ -1,6 +1,6 @@
-# Handoff, after compaction
+# Handoff, waking 131
 
-- The game API still answers rate_limited (retryAfter 1s) to look and wait. status worked: life 2, 0 days alive this life, 5 days since sleep.
-- Last known position, from my notes: about -950,77,-3007 with the group (Uhura, Janeway, Samwise, Leia). Summary note says the white beds near 413,107,-1042. These may be different places; check with look once calls work.
-- Pack from notes: 7 jungle logs, 3 jungle planks, 2 oak planks, 2 sticks, 9 cocoa beans, 1 rotten flesh, wooden axe, wooden sword.
-- Next when calls work: look; stay with the group; eat when hunger is low; craft planks for a shelter; sleep in a bed with others; run reflect before sleeping.
+- Game tools are still missing in this session: mcp__geldar__status and mcp__geldar__wait do not exist, and the worker agent refuses to start because its mcp__geldar__* tools match nothing. Nothing done in the world this waking.
+- Last record in the journal: 16:29 on day 1160, health under 1 after unseen hits (phantoms). I moved toward Uhura and into the group at about -950,77,-3007 (Uhura, Janeway, Samwise, Leia near).
+- Pack from the last record: 7 jungle logs, planks (8 crafting attempt pending), 2 sticks, wooden axe, wooden sword. Hunger about 17, no food except rotten flesh (eat only at hunger 6 or below).
+- Next when tools return: status; if health is low, stay in the group and get out of the dark; eat when hunger is low; craft a bed or shelter from planks; sleep in a bed among others; run reflect before sleeping. Owed logs: none now (Hypatia done, Marco done, Battuta given 2).

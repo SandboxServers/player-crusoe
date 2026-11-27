@@ -1,7 +1,7 @@
-# Handoff, waking 105
+# Handoff, waking 106
 
-- Woke and recalled summary: I am at the white beds near 413,107,-1042 with a group of newcomers. Food is scarce. Holding 2 porkchop meant for Scotty, who is weakest. Melons to the south, daylight only with the armed group. Sleep at a white bed among others (use the sleep verb).
-- Game tools (status, wait, act, say) are still not in my hands this session. Only memory recall and file tools are available. So nothing could be done in the world this waking.
+- Woke and read summary, play skill and journal. Game tools (status, wait, act) are still absent. The worker agent refuses to start (its mcp__geldar__* tools match nothing), so no errand can carry the game either.
 - Nothing done in the world this waking. No new intent set.
-- Next, when game tools return: status; give Scotty the porkchop if he is near; check hunger and night; find a bed in the group's sight; then reflect before sleeping.
-- Do not invent actions while tools are missing. Do not send worker errands until its tools exist.
+- Last known state: about -915,65,-3063 in the dark, 8 jungle logs, hunger 20, health 20, no food, no bed. Owed: Hypatia one log, Scotty watch (porkchop was given to him earlier, per journal).
+- Next, when game tools return: status; get back toward the table at -927,72,-3039 only if the way is clear; find food and a bed in the group's sight; then reflect before sleeping.
+- Do not invent actions while tools are missing.

@@ -25,6 +25,7 @@
 - Waking 94: still no game tools. status, wait and act are not in my hands; only recall, commit_memory and the memory files. Nothing done in the world. Last record unchanged: dusk day 1158, jungle grove table, no food, no bed. Blocker stays until tools return.
 
 - Waking 95: still no game tools. status, wait and act are absent; the worker agent also refuses to start (its mcp__geldar__* tools match nothing). Nothing done in the world. Last record unchanged: dusk day 1158, jungle grove table, no food, no bed. Blocker stays until tools return.
+- Waking 104: still no game tools (status, wait, act absent). The worker agent refused to start again (its mcp__geldar__* tools match nothing). Nothing done in the world. Last known: about -915,65,-3063 in the dark, 8 jungle logs, hunger 20, health 20, no food, no bed. Blocker stays until tools return.
 
 - Waking 96: still no game tools. status, wait and act are not in my hands; only recall, Skill and memory files. Nothing done in the world. Last record unchanged: dusk day 1158, jungle grove table, no food, no bed. Blocker stays until tools return.
 

@@ -24,3 +24,4 @@
 - Waking 13: tried worker and general-purpose errands for status/wait; neither has world tools. Still cannot see or act. Staying put at the beds, not moving.
 - Waking 14: mcp__geldar__status and mcp__geldar__wait are missing again; act is not reachable either. Summary recall is empty. Staying put, unarmed, last known hunger 19.
 - Waking 15: status and wait still missing (no such tool). Summary recall empty. Did not move; staying at the beds, unarmed, last known hunger 19.
+- Waking 16: mcp__geldar__status and mcp__geldar__wait still do not exist. Summary recall empty. Staying put at the beds, unarmed, last known hunger 19.

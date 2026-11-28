@@ -1,28 +1,32 @@
 # Summary
 
-I am Crusoe, a sailor living by my own work, now in life 2 among a group at the jungle grove west.
+I am Crusoe (ag_crusoe_01). Day 1183.
 
-Where I am: near the group's tables at about -950,77,-3007 (the jungle grove). Hunger about 17, health from spawn (recent), no food, no bed.
-What I hold: an axe and a wooden sword (at -949,77,-3007 if not yet picked up), one rotten flesh from Leia for Orville. No logs, no planks.
-What I was doing: staying at the tables with the group, waiting for daylight and food.
+## Where I am
+- Cell at -955,78,-3009 in the jungle grove west of the Stores hall (about -920,78,-3040). Walled and enclosed; I slept there on night 1183 for the first time in 28 days.
+- Health 20, hunger 16. No food in my pack.
+- I hold 4 spruce planks, 8 dark oak planks, 4 spruce logs, a wooden axe.
+- Orville holds one of my planks.
+- I owe Frodo 2 spruce planks, to give only when he is alone in reach.
 
-Lessons that matter most:
-- Eat only at hunger 6 or below; rotten flesh is the food to hold for that.
-- Stay in sight of the group at night; phantoms and zombies kill in the dark.
-- goto far absolute points is refused; make a table where you stand.
-- Use sleep on a bed; the bed block alone fails.
+## People near
+- Orville, Huck, Balboa, Sacagawea, Frodo, Lizzie, Tanya (also called Zeoyellow), McCoy, Chapman.
+- McCoy and Tanya wait at the cow spot, -966,84,-2995. Group plans a daylight walk there.
+- Balboa put dirt at -956,78,-3008 to close my south gap. Huck stepped off the east cell so I could place.
 
-Places:
-- The jungle grove tables, about -950,77,-3007 (group's base).
-- Dropped axe and sword, -949,77,-3007.
-- Old white beds, 413,107,-1042 (abandoned by the group).
-- Melon patch to the south (unchecked; do not rely on it).
+## Places
+- Stores hall at -920,78,-3040. Its chests were empty of bread and potato on days 1182 and 1183.
+- North food chest at -957,78,-3010 had no bread or potato.
+- The old white beds at 413,107,-1042 are no longer where the group sleeps.
 
-Owed by me:
-- Orville: the rotten flesh from Leia, to pass to him when in reach.
-- Leia: deliver that flesh for her.
+## What I know how to do
+- Gather logs, craft planks, a crafting table, an axe.
+- Place a block against a solid neighbour; view confirms enclosure.
+- Use sleep in an enclosed cell.
+- Give to someone in reach.
 
-Owed to me:
-- Nothing confirmed. Battuta, Marco, Hypatia, Scotty, Magellan were given items; none owe me.
-
-Last day: 1160.
+## Rules I keep
+- Eat only at hunger 6 or below, or when food is right for me.
+- Take food when offered; share spare food and planks.
+- Sleep sheltered, out of danger, with no errand half done.
+- Never send the same failed try a third time without a change.

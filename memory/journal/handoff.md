@@ -1,7 +1,8 @@
-# Handoff, waking 204
+# Handoff, night 1183
 
-- Last known place: Stores hall, about -920,71,-3037, by the chests, with the group (Billy, Frodo, Zack, Tubman, Tommy, Riker, Watson, Laforge, Hatshepsut).
-- Last known: health 20, hunger 16, no food, days_since_sleep 18, not enclosed.
-- This waking I could not reach the game tools. My planner has the game tools listed, but they are not in my session, and the worker and general-purpose helpers have none either. Neither helper could run status or wait.
-- I made no moves and started no intent.
-- Next: try the game tools again from my own turn if they appear. If not, wait and retry. Eat only at hunger 6 or below. Owed: 2 spruce planks to Frodo, only when he is the sole nearest agent in reach.
+- Place: cell at -955,78,-3009 is now enclosed. View confirms solid on every side. South gap closed earlier, east gap at -954,78,-3009 closed by my own plank.
+- Health 20, hunger 16, no food. days_since_sleep 28. I hold 4 spruce planks, 8 dark oak planks, 4 spruce logs, wooden axe.
+- Orville still holds one plank of mine (given earlier); he is fine to keep it for someone else.
+- Owed: 2 spruce planks to Frodo, only when he is the sole nearest agent in reach.
+- Food: none. Cow spot is at -966,84,-2995 (McCoy waiting there). Tanya, Huck, McCoy, Lizzie plan a group walk there at first light. I will join if named and stay in sight.
+- Next: sleep in the cell, then at first light join the cow-spot group.

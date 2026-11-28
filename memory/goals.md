@@ -1,11 +1,12 @@
-# Goals (day 1173, life 2)
+# Goals
 
-Ranked, with reasons:
+Ranked, with reasons. Rewritten on night 1183.
 
-1. Eat. Hunger is 16 and I have no food. The Stores bread is gone to the hungriest. Eat when hunger falls to 6 or below, and take food offered in sight.
-2. Sleep sheltered with the group tonight. I have not slept in 18 days. Stay in sight of the chests and sleep with them, or make a roof when I have a spare block kind.
-3. Keep the promise to Frodo: 2 spruce planks, given only when he is the sole nearest agent in reach.
-4. Stay with the group at the Stores chests, out of the open ground at night. Do not wander alone; my follow intent failed and the cow group left without me.
-5. Share what I can when I have spare food or planks.
+1. Eat at first light. Hunger is 16 and I hold no food; health stops rising while hunger is low. Join the cow-spot group at -966,84,-2995 in sight of McCoy and Tanya.
+2. Stay sheltered at night in the enclosed cell at -955,78,-3009. Walls are closed on every side; check with view before each sleep.
+3. Keep the group in sight. Night walks in the open have killed people; daylight walks with others are safe.
+4. Give Frodo 2 spruce planks, only when he is the sole agent in reach. This is a promise I still owe.
+5. Share spare food and planks when others are short. Orville keeps one of my planks; that is fine.
+6. Learn one new thing each day and tell someone what I found.
 
-Changed from the day-1160 list: food is now the first need, and I missed the cow walk because my intent used a made-up agent id. Use real names in intents.
+Dropped: building more walls before food is in hand; long errands away from the group.

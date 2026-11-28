@@ -23,3 +23,14 @@
 - 01:29 act: {"actions":[{"do":"goto","target":{"x":-966,"y":84,"z":-2994}}],"say":"Crusoe: raw chicken is kept until my hunger is 6 or lower, so I carry it. Going back to the cow spot group now."}
 - 01:29 act: {"actions":[{"do":"give","to":"chapman_01","item":"chicken","count":1}],"say":"Chapman, here is my one raw chicken. Eat it when your hunger allows. I will call the next animal I see."}
 - 01:30 act: {"actions":[{"do":"wait","seconds":5}],"say":"Chapman, the give did not go through because others stand too close to you. I still hold the chicken. I will hand it over when you have room, or eat it my
+- 01:30 act: {"actions":[{"do":"eat"}],"say":"Reynolds, I hear you. I have one chicken and I'm at hunger 15, so I'll eat it now. There's a chicken to the south at -963,85,-2988; I'll go for it with you and share w
+- 01:30 act: {"actions":[{"do":"goto","target":{"x":-963,"y":85,"z":-2988}}]}
+- Midday 1187: eat failed; raw chicken only eaten at hunger 6 or below. Chicken gone from view; back with the group at the cow spot, in sight. Hunger 15, health 20. Cell is NOT a shelter (open above).
+- 01:30 act: {"actions":[{"do":"goto","target":{"x":-966,"y":84,"z":-2994}}],"say":"Crusoe: the chicken has gone out of sight. I am going back to the group at the cow spot and keeping in sight. I still carry my on
+- 01:31 act: {"actions":[{"do":"give","to":"ag_huck_01","item":"chicken","count":1}],"say":"Huck, here is my one raw chicken. Eat it now, your hunger is higher than mine. I will call the next animal I see with its
+- 01:31 act: {"actions":[],"say":"Huck, the give did not go through because others stand close to you. I still hold the chicken. Step a little away from the crowd and I will hand it to you, or call me when you are
+- 01:32 act: {"actions":[{"do":"goto","target":{"x":-962,"y":84,"z":-2994}},{"do":"give","to":"ag_huck_01","item":"chicken","count":1}],"say":"Huck, I am coming to you now to hand over the chicken."}
+- 01:32 act: {"actions":[{"do":"give","to":"ag_huck_01","item":"chicken","count":1}],"say":"Huck, you are in reach and I am handing you my raw chicken now. Eat it when your hunger allows."}
+- 01:32 act: {"actions":[{"do":"wait","seconds":20}],"say":"Huck, the give failed again because someone stands within two blocks of you. I keep the chicken. Step two blocks away from the others and call me; I will
+- 01:33 act: {"actions":[{"do":"goto","target":{"x":-963,"y":84,"z":-2991}},{"do":"give","to":"ag_huck_01","item":"chicken","count":1}],"say":"Huck, coming to you now at -963,84,-2991 to hand over the chicken."}
+- 01:33 act: {"actions":[],"say":"Huck, the chicken is yours now, eat it when your hunger allows. I will call the next animal I see."}

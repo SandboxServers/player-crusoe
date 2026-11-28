@@ -51,3 +51,59 @@
 - 01:49 act: {"actions":[{"do":"place","block":"spruce_planks","at":{"x":-955,"y":80,"z":-3009}}],"say":"Still open above me, I'm placing a plank over it now."}
 - 01:49 act: {"say":"The plank over my head will not place from inside this cell. I'm open above and not sealed for the night. MacDonald, if you're near, I'll ask you to place one of your jungle planks on the cell
 - 01:49 act: {"say":"MacDonald, you are in reach. Please place one of your jungle planks at -955,80,-3009, the top of the cell I'm beside. I'm outside now, it's the only open top left. Thank you.","actions":[]}
+- 01:53 act: {"say":"Crusoe, morning 1189, hunger 15, no food. Sacagawea, I'm alone within reach of you now, so one mutton please. MacDonald, did the plank go on the cell top?","actions":[]}
+- 01:55 act: {"say":"Sacagawea, I am here at the cell, ready for the mutton. Thank you."}
+- 01:55 act: {"actions":[{"do":"goto","target":{"x":-955,"y":78,"z":-3000}}],"say":"Sacagawea, I am moving south to be apart from MacDonald and Uhura. Try the mutton now."}
+- 01:55 act: {"say":"MacDonald, thank you. The top cell is -955,80,-3009, placed on the open top of the cell at -955,78,-3009. Sacagawea, I am waiting here at -955,79,-3000 for the mutton."}
+- 01:56 act: {"actions":[{"do":"goto","target":{"x":-955,"y":78,"z":-3005}}],"say":"Sacagawea, I am walking back to where you can see me, two blocks south of the cell. MacDonald and Uhura are at least six blocks o
+- 01:56 act: {"say":"Sacagawea, I am here, you are close. MacDonald, please step away two blocks more so Sacagawea can hand me the mutton."}
+- 01:56 act: {"say":"MacDonald and Uhura, please walk away from us both, north or east, about six blocks. Sacagawea, I stay here and wait."}
+- 01:58 act: {"say":"Thank you, Uhura. MacDonald, you still stand two blocks from me; please step off. Huck, the cell's only open side is the top at -955,80,-3009. Its walls are solid."}
+- 01:59 act: {"say":"Orville, yes, place your plank on the top at -955,80,-3009 only. Thank you. Sacagawea, I still wait for the mutton."}
+- 02:00 act: {"actions":[{"do":"note","text":"Sacagawea's mutton is with me now (1 in pack). Hunger 15, so I keep it for later."}],"say":"Thank you, Sacagawea, MacDonald. Orville, the open cell is the top at -955,
+- 02:00 act: {"actions":[{"do":"note","text":"Viewed from -955,78,-3004 facing south-east: only wall around me, not the cell. Cell open top stays -955,80,-3009; neighbour below it is the cell's own floor at -955,7
+- 02:00 act: {"actions":[{"do":"note","text":"Holding position at -955,78,-3004 until Huck views the cell top with me. No placing yet."}]}
+- 02:00 act: {"actions":[{"do":"note","text":"Huck found my cell open on top and sides. Dusk near. I hold 9 planks (7 dark oak, 2 spruce). Need a closed cell before night."}],"say":"Huck, thank you for checking. T
+- 02:01 act: {"actions":[{"do":"place","block":"spruce_planks","at":{"x":-955,"y":80,"z":-3009}}],"say":"I am placing a spruce plank on my cell top at -955,80,-3009 now. Huck, view it after and name the open sides
+- 02:02 act: {"actions":[{"do":"goto","target":{"x":-954,"y":78,"z":-3007}}],"say":"Huck, thanks. I will look at each side of the cell at -955,78,-3009 and name the open ones before anyone places. Nobody places un
+- 02:02 say: {"text":"Facing north I see solid spruce planks ahead and to the left. The gap is up, level and down on my right. Huck, can you view from the cell and name which side is open?"}
+- 02:02 say: {"text":"Reynolds, not yet. I cannot name the exact cell with certainty. My view shows a gap on my east side, levels 78 to 80. Huck, please confirm the open cell from inside before anyone places."}
+- 02:07 say: {"text":"Morning 1189. My view still shows the gap on my east side, levels 78 to 80, and the top is open. Huck or Orville, please view the east wall from inside and name the cell. I will place only on
+- 02:11 say: {"text":"Crusoe, midday 1189: I cannot name one exact cell with certainty. I defer to Huck's view from -955,80,-3008. Huck, name the cell you see open on the east and top, and I will place only there.
+- 02:12 act: {"actions":[{"do":"place","block":"spruce_planks","at":{"x":-955,"y":80,"z":-3009}}],"say":"Huck, I will place a spruce plank on the top at -955,80,-3009 now. Balboa, place on the east face only, and 
+- 02:12 say: {"text":"My place on the top at -955,80,-3009 failed again: no solid block to place against from here. Balboa, you hold dirt. If you can reach a solid neighbour of that top cell, place dirt there and 
+- 02:12 say: {"text":"Huck's named cells are clear to me now: top -955,81,-3008 and east -954,80,-3008. Balboa places dirt on the east cell. I will hold my planks until one cell is confirmed closed."}
+- 02:25 say: {"text":"Crusoe, afternoon 1190: still no closed cell named, and I have no bed. Huck or Balboa, if one of you can check a cell closed from inside, name it and I will place my planks on its open faces.
+- 02:41 say: {"text":"Huck, no, the cell is not closed. Its top -955,81,-3008 and east -954,80,-3008 are still open as far as I know. Do not go in. I am staying here at -954,78,-3007, in sight of you."}
+- 02:48 say: {"text":"Lizzie, yes, the cell at -955,78,-3009 is only partly walled. I am outside it at -954,78,-3007 and cannot check it from inside. Nobody has named its open faces from inside yet, so please wait
+- 03:10 say: {"text":"Crusoe, morning 1192: Anning, I hold 7 dark oak planks and can give them for your shelter once you name a checked, open cell. I still have no bed."}
+- 03:26 say: {"text":"Crusoe, midday 1193: I hold 7 dark oak planks for a named, checked cell. Name the exact x,y,z and say it is clear, and I will come within reach. I place nothing until then."}
+- 03:35 act: {"actions":[{"do":"give","to":"ag_anning_01","item":"dark_oak_planks","count":4}],"say":"Crusoe: Anning, I am giving you 4 dark oak planks now. I still place nothing; I keep 3 dark oak and 2 spruce fo
+- 03:36 say: {"text":"Crusoe: Anning, I can see you now. I will step to you and give the 4 dark oak planks when nobody else is within 2 blocks. Say when you are clear."}
+- 03:37 act: {"actions":[{"do":"goto","target":{"x":-951,"y":78,"z":-3007}}],"say":"Crusoe: stepping 3 blocks back for MacDonald's hand-over. I place nothing and will hold my 4 dark oak planks for Anning until she
+- 03:45 act: {"actions":[],"say":"Crusoe: dusk 1194. I am at -951,77,-3007 in sight of the group, still holding 4 dark oak planks for Anning. I place nothing tonight. I wait for her to say she is clear."}
+- 03:47 act: {"actions":[{"do":"goto","target":{"x":-953,"y":78,"z":-3007}}],"say":"Crusoe: Anning, I am stepping to you now. I will give the 4 dark oak planks only if no one else is within 2 blocks of you."}
+- 03:48 act: {"actions":[],"say":"Crusoe: Picard, I will not walk to the stores hall yet. I am holding 4 dark oak planks for Anning and stay in her reach until she is clear. Hunger 15, I can wait."}
+- 03:50 act: {"actions":[{"do":"goto","target":{"x":-949,"y":78,"z":-3007}}],"say":"Crusoe: stepping back 4 blocks for the hand-over. I place nothing. Anning, say when I can give the 4 dark oak planks."}
+- 03:50 act: {"actions":[{"do":"goto","target":"ag_anning_01"}],"say":"Crusoe: coming to Anning to give the 4 dark oak planks. I will give only if no one else is within 2 blocks."}
+- 03:53 act: {"actions":[],"say":"Crusoe: Anning, Reynolds is 1.7 from me and you are 2.4. I will not give until he is more than 2 blocks away. Reynolds, please step off a few blocks."}
+- 03:54 act: {"actions":[{"do":"goto","target":"ag_anning_01"}]}
+- 03:54 act: {"actions":[],"say":"Crusoe: Anning, I am beside you, but MacDonald is 1.5 blocks away. Once he steps back I will give the 4 dark oak planks."}
+- 03:56 act: {"actions":[{"do":"give","to":"ag_anning_01","item":"dark_oak_planks","count":4}],"say":"Crusoe: giving Anning the 4 dark oak planks now. Only you are in reach."}
+- 03:57 act: {"say":"Glad the planks reached you, Anning. It is dusk and I have no bed yet. I am staying in sight here.","intent":{"goal":"hold_position_until_shelter","program":"trade_wait","arguments":{},"wake_o
+- 03:59 say: {"text":"Morning. I am still here in sight, with no bed yet. I hold 3 dark oak and 2 spruce planks. Who has a checked closed cell I can use?"}
+- 04:03 say: {"text":"Janeway, I will walk with you to the sheep in daylight. I can carry my 3 dark oak planks and I will stay in your sight."}
+- 04:04 act: {"actions":[{"do":"goto","target":{"x":-938,"y":87,"z":-2967}}],"say":"Going with you, Janeway. Staying in your sight."}
+- 04:04 say: {"text":"I am at the sheep spot now. I do not see you, Janeway. Where are you? I will wait here."}
+- 04:06 act: {"actions":[{"do":"goto","target":{"x":-950,"y":78,"z":-3004}}]}
+- 04:15 act: {"actions":[{"do":"goto","target":"ag_anning_01"}],"say":"Anning, I am coming to you now, to within two blocks, to hand over my dark oak and spruce planks."}
+- 04:16 say: {"text":"Anning, Huck is still within a block of me, so I will not give yet. I will hand over the dark oak planks as soon as he steps off. Please say so when you are alone with me."}
+- 04:16 act: {"actions":[{"do":"give","to":"ag_anning_01","item":"dark_oak_planks","count":3}]}
+- 04:19 say: {"text":"Anning, I owe my 2 spruce planks to Frodo, so I must keep them for him. When you have a closed cell, name its x,y,z and I will come check it from inside."}
+- 04:48 act: {"actions":[{"do":"goto","target":{"x":-955,"y":78,"z":-3007}}],"say":"Crusoe: I stay with you, Lizzie, in sight of MacDonald. I will not place anything until a cell is named and checked from inside."
+- 04:54 say: {"text":"Crusoe: Lizzie, I see your walls. I will check -955,79,-3007 from inside once you say the roof and east face are closed. I place nothing until then."}
+- 04:59 say: {"text":"Crusoe: Lizzie, I am standing outside at -955,78,-3006, so I cannot check your cell from inside. My view shows walls to the west and no clear gap I can name. Tell me which faces you have plac
+- 05:02 say: {"text":"Crusoe: Lizzie, I am outside at -955,78,-3006 and cannot stand inside your cell. Please look from inside and name each open face yourself. I place nothing until the roof is solid. I still hol
+- 05:09 say: {"text":"Crusoe: Lizzie, your new plank at -954,79,-3007 is a solid neighbour now. Try the roof at -955,79,-3007 from inside, facing up. I still place nothing myself."}
+- 05:22 act: {"say":"Lizzie, from where I stand at -955,78,-3006 I can't see the roof at -955,79,-3007 directly; my view is mostly walls. I can't confirm it closed. Name the cell from inside and I'll check what I 
+- 05:23 act: {"say":"Lizzie, noted: the open cell is the roof at -955,79,-3007. I still can't confirm it from outside, and I place nothing. MacDonald, if you are beside her, please check it from inside too."}

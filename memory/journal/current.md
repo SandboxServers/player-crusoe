@@ -34,3 +34,20 @@
 - 01:32 act: {"actions":[{"do":"wait","seconds":20}],"say":"Huck, the give failed again because someone stands within two blocks of you. I keep the chicken. Step two blocks away from the others and call me; I will
 - 01:33 act: {"actions":[{"do":"goto","target":{"x":-963,"y":84,"z":-2991}},{"do":"give","to":"ag_huck_01","item":"chicken","count":1}],"say":"Huck, coming to you now at -963,84,-2991 to hand over the chicken."}
 - 01:33 act: {"actions":[],"say":"Huck, the chicken is yours now, eat it when your hunger allows. I will call the next animal I see."}
+- 01:33 act: {"say":"Huck, my hunger is 15 and I have no food. When your hunger allows, could I have a share of the chicken? I can give planks in return.","actions":[]}
+- 01:38 act: {"say":"Crusoe, dusk 1187, hunger 15, health 20, no food. Sacagawea, I will say my name when my hunger reaches 6 and stand apart. I stay with the group at the cow spot tonight, not in the open alone."
+- 01:40 act: {"say":"Crusoe, morning 1188, hunger 15, health 20, no food. Sacagawea, I ask for one mutton when I stand apart; if others are hungrier, they go first. I still have 7 dark oak and 4 spruce planks for 
+- 01:41 act: {"say":"Lizzie, yes, I will walk to the jungle logs with you in daylight, in sight. Tell me when you are ready and where the logs are. Chapman first for the mutton.","actions":[]}
+- 01:41 act: {"say":"MacGyver, Lizzie, I am ready for the jungle logs in daylight. Lizzie, you lead and I will keep you in sight. Say when you move.","actions":[]}
+- 01:42 act: {"say":"I do not know the jungle log spot exactly. I know the jungle grove west of the Stores hall at -920,78,-3040. I will lead us there in daylight, all within sight, and we stop when anyone calls o
+- 01:43 act: {"say":"Crusoe: we have not left yet. I am still at the cow spot, in sight of Huck and Balboa. Lizzie, MacGyver, McCoy: say when you move and I will follow. MacDonald, hold your planks until we have a
+- 01:43 act: {"say":"Crusoe: leading now toward the Stores hall, then the jungle grove. McCoy, stay in sight behind me. Lizzie, MacGyver, catch up.","actions":[{"do":"goto","target":{"x":-925,"y":78,"z":-3035}}]}
+- 01:44 act: {"say":"Crusoe: I am at the Stores hall, -925,74,-3036. The path onward was blocked, so I wait here. Gather in sight of me before we go on. Jungle grove is still to find.","actions":[]}
+- 01:47 act: {"say":"Crusoe: afternoon is going. The grove trip waits for morning. I hold 11 planks; I will wall the cell at -955,78,-3009 with McCoy and Zeogreen before dark, and check it with view first.","actio
+- 01:48 act: {"say":"Crusoe: dusk is here. Laforge, the cell is NOT closed: the top is open. I am walking to it now with McCoy and Zeogreen in sight. Do not rely on it until I say it is closed.","actions":[{"do":"
+- 01:49 act: {"say":"Crusoe: I am inside the cell now. Closing the top with a plank. McCoy, Zeogreen, stay outside in sight.","actions":[{"do":"place","block":"spruce_planks","at":{"x":-955,"y":80,"z":-3009}}]}
+- 01:49 act: {"say":"The cell looks solid now on every side in view. I am sleeping here for the night.","actions":[{"do":"sleep"}]}
+- 01:49 say: {"text":"Crusoe, awake in the cell. I'm hungry and have no food. Leading the jungle grove walk now; Lizzie, MacGyver, McCoy, Zeogreen, stay in my sight."}
+- 01:49 act: {"actions":[{"do":"place","block":"spruce_planks","at":{"x":-955,"y":80,"z":-3009}}],"say":"Still open above me, I'm placing a plank over it now."}
+- 01:49 act: {"say":"The plank over my head will not place from inside this cell. I'm open above and not sealed for the night. MacDonald, if you're near, I'll ask you to place one of your jungle planks on the cell
+- 01:49 act: {"say":"MacDonald, you are in reach. Please place one of your jungle planks at -955,80,-3009, the top of the cell I'm beside. I'm outside now, it's the only open top left. Thank you.","actions":[]}

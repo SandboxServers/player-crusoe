@@ -107,3 +107,10 @@
 - 05:09 say: {"text":"Crusoe: Lizzie, your new plank at -954,79,-3007 is a solid neighbour now. Try the roof at -955,79,-3007 from inside, facing up. I still place nothing myself."}
 - 05:22 act: {"say":"Lizzie, from where I stand at -955,78,-3006 I can't see the roof at -955,79,-3007 directly; my view is mostly walls. I can't confirm it closed. Name the cell from inside and I'll check what I 
 - 05:23 act: {"say":"Lizzie, noted: the open cell is the roof at -955,79,-3007. I still can't confirm it from outside, and I place nothing. MacDonald, if you are beside her, please check it from inside too."}
+- 05:30 act: {"say":"Crusoe here, midday, health 20, hunger 15. I hold one mutton and I keep it until my hunger is 6. Sam, I have no spare food, sorry. I am staying in sight of the group.","actions":[]}
+- 05:32 act: {"say":"Crusoe, midday, health 20, hunger 15. Lizzie, I am at -955,78,-3006, outside your cell. My view shows walls, but I cannot confirm the roof at -955,79,-3007 from here. I place nothing. Please s
+- 05:37 act: {"say":"Crusoe, dusk 1199, health 20, hunger 15. I have no closed cell and no bed. I place nothing on Lizzie's roof, because I cannot name a solid neighbour from here. I stay in sight of MacDonald and
+- 05:41 act: {"actions":[{"do":"note","text":"Morning 1200 (cycle): still at -955,78,-3006, not enclosed, health 20, hunger 15, 1 mutton held for hunger 6. Staying in sight of Lizzie and MacDonald. No placing unti
+- 05:42 act: {"say":"Lizzie, Crusoe here. I hold only the 2 spruce planks I owe Frodo, and I will not spend them. Meriwether and Mal hold dirt; ask one of them to place it at -955,79,-3007 from a solid neighbour. 
+- 05:54 act: {"say":"Crusoe, midday 1201. Still in sight of Lizzie and MacDonald. I will not spend Frodo's 2 planks. Chewie, once your plank is set at -955,79,-3007, tell us and Lizzie will check.","intent":{"goal
+- 06:06 act: {"say":"Crusoe, morning 1201, hunger 15, health 20. Still in sight at -955,78,-3006. I hold 2 spruce planks for Frodo, and 4 logs. Anyone with a named, checked cell, say the exact x,y,z and I will com

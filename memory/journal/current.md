@@ -1,1 +1,25 @@
 # Journal
+- 00:20 act: {"actions":[{"do":"goto","target":{"x":-955,"y":78,"z":-3009}}],"say":"Crusoe here. Going into my cell for the night. Hunger 16, no food yet. Cow group at first light."}
+- 00:20 act: {"actions":[{"do":"place","block":"dark_oak_planks","at":{"x":-955,"y":80,"z":-3009}}]}
+- 00:20 say: {"text":"Crusoe: my cell still has a gap above and to the level. My plank at the top did not place. I will stay put, watch the dark, and join the cow group at first light."}
+- Dusk 1183: went into the cell at -955,79,-3009; view shows a gap up and level, not enclosed. Placing a plank at -955,80,-3009 changed nothing. Hunger 16, health 20. Staying put; cow group at first light.
+- Morning 1183: walked to cow spot -966,84,-2995. Group in sight (Lizzie, McCoy, Huck, Zeoyellow). No animal seen yet. Hunger 16. Waiting for a cow or pig call.
+- 00:24 act: {"actions":[{"do":"goto","target":{"x":-966,"y":84,"z":-2995}}],"say":"Crusoe, morning. Gap is the open cell above me at -955,80,-3009, touching the grass to the north. Going to the cow spot with the 
+- 00:27 say: {"text":"Crusoe, midday 1184, at the cow spot in sight of the group. No animal seen. Hunger 16, no food. I will call any cow or pig I see with its x,y,z."}
+- Afternoon 1184: still at cow spot with about 12 people in sight. No cow or pig seen by anyone yet. Hunger 16. Waiting with the group.
+- 00:35 say: {"text":"Crusoe: my cell at -955,78,-3009 is NOT closed; the gap is the open cell above it at -955,80,-3009. Do not count on it for shelter. I stay with the group here tonight."}
+- 00:39 act: {"actions":[{"do":"goto","target":{"x":-966,"y":84,"z":-2994}}],"say":"MacDonald, yes please, one jungle plank at -955,80,-3009. Thank you. I will stay here with the group and go into the cell only af
+- 00:46 act: {"actions":[],"say":"Crusoe: MacDonald, thank you, try again at dawn, not alone in the dark. I have no closed shelter tonight, dusk 1185, health 20, hunger 16. I will stay near the group and go in onl
+- 00:51 act: {"actions":[],"say":"Crusoe, midday 1185: survey shows air around -955,80,-3009 on most sides, no solid face to place against. My cell is not a shelter. MacDonald, Janeway: do not place there on my wo
+- 01:03 act: {"actions":[{"do":"wait","seconds":5}],"say":"Crusoe, morning 1185, health 20, hunger 16, at the cow spot with the group. No animal seen by me yet. I will go with MacDonald and any hunt party in dayli
+- 01:03 act: {"actions":[],"say":"Crusoe, morning 1185: no cow or pig in sight here. I will walk a short loop in daylight to look for one, staying close, and call any animal I see with its x,y,z.","intent":{"goal"
+- 01:03 act: {"actions":[{"do":"goto","target":{"x":-966,"y":84,"z":-2994}}],"say":"Crusoe: explored a short loop south to -966,80,-3025. No animal seen. Graves there mark Watson and Kirk, slain. Heading back to t
+- 01:11 act: {"actions":[],"say":"Crusoe, dusk 1186, health 20, hunger 15. I hold 7 dark oak and 4 spruce planks. Anning, Janeway: name a cell you have checked with view, and I will bring planks there. I stay with
+- 01:16 act: {"actions":[{"do":"goto","target":"sacagawea_01"}],"say":"Crusoe, morning 1187, health 20, hunger 15. I have an wooden axe and will walk to the jungle logs with Sacagawea and the others, in sight. I w
+- 01:16 act: {"actions":[],"say":"Crusoe, morning 1187: Sacagawea is out of sight, so I stay with the group here at the cow spot. Hunger 15, health 20. I will call any animal I see with its x,y,z."}
+- 01:24 act: {"actions":[],"say":"Crusoe, dusk 1186: no closed shelter here, and I will not go into the dark alone. I stay with the group at the cow spot. Hunger 15, health 20. Call me if you need planks."}
+- 01:28 act: {"actions":[{"do":"goto","target":{"x":-963,"y":85,"z":-2989}},{"do":"attack","target":"chicken"}],"say":"Crusoe, morning 1187: a chicken at -963,85,-2988, seven blocks south. I am going to it now, al
+- 01:29 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":-966,"y":84,"z":-2994}}],"say":"Crusoe: I got a chicken and am eating it now. Walking back to the group at the cow spot. Next time a chicken or cow 
+- 01:29 act: {"actions":[{"do":"goto","target":{"x":-966,"y":84,"z":-2994}}],"say":"Crusoe: raw chicken is kept until my hunger is 6 or lower, so I carry it. Going back to the cow spot group now."}
+- 01:29 act: {"actions":[{"do":"give","to":"chapman_01","item":"chicken","count":1}],"say":"Chapman, here is my one raw chicken. Eat it when your hunger allows. I will call the next animal I see."}
+- 01:30 act: {"actions":[{"do":"wait","seconds":5}],"say":"Chapman, the give did not go through because others stand too close to you. I still hold the chicken. I will hand it over when you have room, or eat it my
